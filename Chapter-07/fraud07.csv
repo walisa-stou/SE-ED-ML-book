@@ -1,0 +1,1052 @@
+trans_datetime,merchant,category,amt,gender,state,job,trans_num,is_fraud
+1/1/2019 0:00,"fraud_Rippin, Kub and Mann",misc_net,4.97,F,NC,"Psychologist, counselling",0b242abb623afc578575680df30655b9,0
+1/1/2019 0:00,"fraud_Heller, Gutmann and Zieme",grocery_pos,107.23,F,WA,Special educational needs teacher,1f76529f8574734946361c461b024d99,0
+1/1/2019 0:00,fraud_Lind-Buckridge,entertainment,220.11,M,ID,Nature conservation officer,a1a22d70485983eac12b5b88dad1cf95,0
+1/1/2019 0:01,"fraud_Kutch, Hermiston and Farrell",gas_transport,45,M,MT,Patent attorney,6b849c168bdad6f867558c3793159a81,0
+1/1/2019 0:03,fraud_Keeling-Crist,misc_pos,41.96,M,VA,Dance movement psychotherapist,a41d7549acf90789359a9aa5346dcb46,0
+1/1/2019 0:04,"fraud_Stroman, Hudson and Erdman",gas_transport,94.63,F,PA,Transport planner,189a841a0a8ba03058526bcfe566aab5,0
+1/1/2019 0:04,fraud_Rowe-Vandervort,grocery_net,44.54,F,KS,Arboriculturist,83ec1cc84142af6e2acf10c44949e720,0
+1/1/2019 0:05,fraud_Corwin-Collins,gas_transport,71.65,M,VA,"Designer, multimedia",6d294ed2cc447d2c71c7171a3d54967c,0
+1/1/2019 0:05,fraud_Herzog Ltd,misc_pos,4.27,F,PA,Public affairs consultant,fc28024ce480f8ef21a32d64c93a29f5,0
+1/1/2019 0:06,"fraud_Schoen, Kuphal and Nitzsche",grocery_pos,198.39,F,TN,Pathologist,3b9014ea8fb80bd65de0b1463b00b00e,0
+1/1/2019 0:06,fraud_Rutherford-Mertz,grocery_pos,24.74,M,IA,IT trainer,d71c95ab6b7356dd74389d41df429c87,0
+1/1/2019 0:06,fraud_Kerluke-Abshire,shopping_net,7.77,F,WV,Systems developer,3c74776e558f1499a7824b556e474b1d,0
+1/1/2019 0:06,fraud_Lockman Ltd,grocery_pos,71.22,M,FL,"Engineer, land",c1d9a7ddb1e34639fe82758de97f4abf,0
+1/1/2019 0:07,fraud_Kiehn Inc,grocery_pos,96.29,M,CA,Systems analyst,413636e759663f264aae1819a4d4f231,0
+1/1/2019 0:09,fraud_Beier-Hyatt,shopping_pos,7.77,M,NM,Naval architect,8a6293af5ed278dea14448ded2685fea,0
+1/1/2019 0:09,fraud_Schmidt and Sons,shopping_net,3.26,M,NJ,"Radiographer, diagnostic",baae0b096835c975857eea7e28dde3dc,0
+1/1/2019 0:10,fraud_Lebsack and Sons,misc_net,327,F,OK,"Programme researcher, broadcasting/film/video",991c04803b4d4eeab30d6245a872e3d3,0
+1/1/2019 0:10,fraud_Mayert Group,shopping_pos,341.67,M,IN,Energy engineer,f12cf52be2175703db789a4644c32f25,0
+1/1/2019 0:11,"fraud_Konopelski, Schneider and Hartmann",food_dining,63.07,M,PA,Event organiser,8500f3d459047eac8443307b1e8296e5,0
+1/1/2019 0:12,"fraud_Schultz, Simonis and Little",grocery_pos,44.71,M,NJ,Operational researcher,09eff9c806365e2a6be12c1bbab3d70e,0
+1/1/2019 0:13,fraud_Bauch-Raynor,grocery_pos,57.34,M,MA,Market researcher,139a1bee15be607d79fe173bfcb2502a,0
+1/1/2019 0:14,fraud_Harris Inc,gas_transport,50.79,M,IA,Probation officer,b9c4615bec3561c8e83b0c1d6c7028e2,0
+1/1/2019 14:12,fraud_Kerluke PLC,misc_net,45.69,M,IL,Commercial/residential surveyor,759aed1f81d232f2e22fa02d8047950b,0
+1/1/2019 14:13,fraud_Kub-Heaney,health_fitness,10.85,F,VA,"Teacher, English as a foreign language",86fc0bf4e98c32c2fffbd78591d96bab,0
+1/1/2019 14:13,fraud_Medhurst PLC,shopping_net,2.62,M,NC,"Scientist, research (maths)",833096cbee33e6cddbb1dd827eedb5a6,0
+1/1/2019 14:13,fraud_Flatley Group,misc_pos,6.76,F,WY,Product/process development scientist,b0eb5b54e67cef86627bff68103daa28,0
+1/1/2019 14:13,fraud_Pouros-Conroy,shopping_pos,3.21,F,CA,Web designer,3e839ed419114679bd901cb01a595e49,0
+1/1/2019 14:13,fraud_Beier-Hyatt,shopping_pos,5.18,M,IN,Community arts worker,b9ca78f7b83f25d2d063d16429a6645d,0
+1/1/2019 14:13,fraud_Reilly LLC,home,41.46,M,TX,Web designer,3c4b96fa3bf98936098517ff94d3be91,0
+1/1/2019 14:14,fraud_Cruickshank-Mills,entertainment,25.09,M,PA,Management consultant,a4cd688855b0cb85adb011ef482c6717,0
+1/1/2019 14:14,"fraud_Runolfsdottir, Mueller and Hand",entertainment,40.75,M,TX,Exhibition designer,7d4f71c78267f01b54c92804a7aa1c80,0
+1/1/2019 14:14,"fraud_Altenwerth, Cartwright and Koss",shopping_net,9.62,F,UT,"Surveyor, minerals",da5b0dd77b29ff6da78ca79f95e030b2,0
+1/1/2019 14:14,fraud_McKenzie-Huels,food_dining,1.57,F,PA,Energy manager,e448ead941a5df0a1829650e413fa329,0
+1/1/2019 14:15,"fraud_Effertz, Welch and Schowalter",entertainment,67.86,M,PA,Orthoptist,a851947895d831bab0e608b4f3f6dec3,0
+1/1/2019 14:15,fraud_Schoen-Quigley,kids_pets,316.87,F,MD,Clinical research associate,ff6357925635cfa17cc0f1821523f1b3,0
+1/1/2019 14:15,fraud_Champlin-Casper,home,79.52,M,AL,"Librarian, academic",ec31d8b319bbb30c103e37677fefc65f,0
+1/1/2019 14:16,fraud_Bednar PLC,kids_pets,38.45,F,KS,Chief Executive Officer,c6644b0342b0a47f9ee54751dbc9057d,0
+1/1/2019 14:16,"fraud_Klocko, Runolfsdottir and Breitenberg",health_fitness,14.89,F,AR,"Scientist, audiological",3d138d54dde41cb372da672b2a3476d4,0
+1/1/2019 14:16,fraud_Ruecker-Mayert,kids_pets,47.61,M,MT,Chartered loss adjuster,ad41b97a3179a3344fe7526ac4ded571,0
+1/1/2019 14:16,fraud_Abbott-Steuber,personal_care,26.77,M,MI,"Designer, jewellery",d07a144af56f2d08269c6b43b6bdf6b7,0
+1/1/2019 14:17,"fraud_Schroeder, Hauck and Treutel",entertainment,93.89,F,TX,Systems developer,a41f29f4f3a1345ef2ca669e084632ba,0
+1/1/2019 14:17,"fraud_Cormier, Stracke and Thiel",entertainment,109.49,F,WY,Music therapist,31670e7c674cc710d079b49eece1d328,0
+1/1/2019 14:20,"fraud_Reichert, Rowe and Mraz",shopping_net,304.13,F,NY,Chartered loss adjuster,97422296effe7a9e9e2796efa61e409f,0
+1/1/2019 14:20,fraud_Spencer PLC,entertainment,75.88,M,NY,Science writer,5a9b26e5c24346422207d64d5cc8df7b,0
+1/1/2019 14:21,fraud_Hamill-D'Amore,health_fitness,2.44,M,MI,Technical brewer,e03462233555a92e7e349bcec1455a10,0
+1/1/2019 14:22,fraud_Kuhn LLC,misc_net,130.9,F,IL,"Psychotherapist, child",3949a27ed9d07e320104b2faf9038e11,0
+1/1/2019 14:22,fraud_Lemke-Gutmann,shopping_net,3.49,F,AZ,Contractor,8ce31e2f24c96575cf55a89c830de3f2,0
+1/1/2019 14:22,"fraud_Graham, Hegmann and Hammes",food_dining,61.27,M,OH,Museum/gallery conservator,a6921364d359e90ed98690877d7adbde,0
+1/1/2019 14:23,fraud_Reilly and Sons,health_fitness,96.86,F,LA,Community education officer,0e4e74038edab23b0a490340cc59e178,0
+1/1/2019 14:24,fraud_Stark-Koss,home,181.45,M,NJ,"Radiographer, diagnostic",86a34b2fa99f85a07389e2e330f9f060,0
+1/1/2019 14:24,fraud_O'Keefe-Wisoky,food_dining,1.54,F,AR,Manufacturing engineer,cde21abc8917a7c9d7812b40194ae87d,0
+1/1/2019 14:24,fraud_Daugherty LLC,kids_pets,84.46,M,SD,Multimedia programmer,d1725cee56f7ae7c2a75e6fe4cda9c9d,0
+1/1/2019 14:25,"fraud_Larkin, Stracke and Greenfelder",entertainment,60.93,F,OH,Mechanical engineer,176e2b2b89de56364d6eac9d322458c0,0
+1/1/2019 14:25,fraud_Torp-Lemke,misc_pos,108.54,F,IN,"Psychologist, forensic",ef3bf221feec64e27a18e2c8c52522c5,0
+1/1/2019 14:25,"fraud_Denesik, Powlowski and Pouros",home,14.78,F,VA,"Teacher, English as a foreign language",7e5b00136d665050598dabf406ef5b8c,0
+1/1/2019 14:26,"fraud_Romaguera, Wehner and Tromp",kids_pets,32.16,M,MS,"Exhibitions officer, museum/gallery",ed66253f539f8485acb2e4d855cb0eca,0
+1/1/2019 14:27,fraud_Rippin-VonRueden,health_fitness,1.75,F,ND,Industrial/product designer,836b98a6d77d5ec2dcac9ec5ea6914c3,0
+1/1/2019 14:27,fraud_Heller PLC,health_fitness,9.69,M,NJ,Insurance risk surveyor,3cd1fc7a0c6cd664d27bea7756090d15,0
+1/1/2019 14:28,fraud_Kris-Padberg,shopping_pos,3.09,M,FL,"Engineer, land",5e9f40387cfbc070dcba6302420eba92,0
+1/1/2019 14:28,fraud_Hills-Boyer,personal_care,200.49,F,NY,Herbalist,2039dc29ccbaea9ecde978052d2e4b76,0
+1/1/2019 14:28,fraud_Balistreri-Nader,misc_pos,12.8,M,MN,Chief Strategy Officer,657d6ffd56c30070771429dcccfe12ff,0
+1/1/2019 14:31,fraud_Cormier LLC,shopping_net,3.73,M,AL,Educational psychologist,f8bc717f13fd65dcf9c82513569e39ee,0
+1/1/2019 14:31,fraud_Erdman-Ebert,personal_care,36.37,F,NY,Film/video editor,a01044e85bca58e6e6c5a8fdabe0c844,0
+1/1/2019 14:32,fraud_Kemmer-Buckridge,misc_pos,427.99,M,UT,Location manager,0d80c1883d162c75693f44cdceaee9ce,0
+1/1/2019 14:33,"fraud_Bahringer, Schoen and Corkery",shopping_pos,2.23,M,MS,"Exhibitions officer, museum/gallery",0e69085479b00ccacffe06a5fc4cbd73,0
+1/1/2019 14:33,fraud_Bogisich-Weimann,kids_pets,42.52,F,AL,Chemical engineer,4a964ababee2cb4830caca4735781f37,0
+1/1/2019 14:33,"fraud_Swaniawski, Nitzsche and Welch",health_fitness,76.7,M,PA,"Administrator, education",a0e07144ecff128f953d3fa53396d8a3,0
+1/1/2019 14:33,"fraud_Gutmann, McLaughlin and Wiza",home,29.35,M,MS,Financial trader,acedfb9706d4a018158cfdeca9795f51,0
+1/1/2019 14:34,"fraud_Hagenes, Kohler and Hoppe",food_dining,31.19,F,NJ,Science writer,435abb30825fb92190805a3e31a19462,0
+1/1/2019 14:35,fraud_Little Ltd,kids_pets,19.07,F,WA,Osteopath,fcb650144928aa110865e80724c608e2,0
+1/1/2019 14:35,fraud_Bode-Rempel,kids_pets,28.6,F,TN,Prison officer,04b15bb8145b48a8c0a134e22761fc22,0
+1/1/2019 14:36,"fraud_Kutch, Steuber and Gerhold",food_dining,36.31,M,NJ,Mechanical engineer,d3c1ed87e9e9bff670d7a2b336980f54,0
+1/1/2019 14:36,fraud_Kutch-Ferry,home,13.01,M,ME,Tourist information centre manager,87d8b15e9d4faac1e709e79f5d35f026,0
+1/1/2019 14:36,fraud_Botsford and Sons,home,19,F,SC,Animal technologist,c931bb39a21e5ed8a4bcc39dbdcc1c6a,0
+1/1/2019 14:38,fraud_Runte-Mohr,food_dining,24.27,F,TX,"Physicist, medical",438c0bc2afcf23b6f1169d41041f2e6a,0
+1/1/2019 14:38,fraud_Kessler Inc,travel,6.56,F,ME,Animal nutritionist,cbded4b144dd6743c3035208b2c52838,0
+1/1/2019 14:38,fraud_Deckow-Dare,food_dining,50.74,M,NM,Naval architect,1e81ed0abec50d580b142adfb12b1159,0
+1/1/2019 14:39,fraud_Rolfson-Kunde,personal_care,62.67,M,IA,Administrator,16237a6d8eee7bd5599e048b7d62a37f,0
+1/1/2019 14:39,"fraud_Roob, Conn and Tremblay",shopping_pos,127.32,F,AR,Manufacturing engineer,73399cd13031c93cc82eaeff09369702,0
+1/1/2019 14:39,fraud_Marvin-Lind,personal_care,2.81,F,WV,Statistician,3a87f36dcccce45ce5128b0bf71c75f6,0
+1/1/2019 14:40,fraud_Medhurst Inc,home,29.5,M,MT,"Therapist, horticultural",81f6f42f4ce1ee1fa3470a321118396f,0
+1/1/2019 14:40,fraud_O'Hara-Wilderman,food_dining,5.24,F,AZ,Contractor,305863ab779e819ab1027b2e240be39d,0
+1/1/2019 14:40,fraud_Beer-Jast,kids_pets,149.21,F,SD,Hospital pharmacist,b111d22d4b06e02d9c145f28d7858a43,0
+1/1/2019 14:40,fraud_Barrows PLC,shopping_pos,4,F,MO,Electronics engineer,5dc420ce15d678f98d713a3083d157dd,0
+1/1/2019 14:41,"fraud_Schneider, Hayes and Nikolaus",food_dining,36.6,M,UT,Location manager,b832c6e87885377cd2ca4ca99e54c1a3,0
+1/1/2019 14:41,fraud_Kulas Group,health_fitness,38.82,F,ND,Industrial/product designer,7ab0257011c6a02eb4bfca3125a3af08,0
+1/1/2019 14:42,"fraud_Berge, Kautzer and Harris",personal_care,55.49,F,FL,"Librarian, public",b8f727c54231391a84b08251e1803bab,0
+1/1/2019 14:43,"fraud_Turcotte, Batz and Buckridge",health_fitness,24.04,M,IA,Estate manager/land agent,dd7b335baef2c0d34b9793f47cb17432,0
+1/1/2019 14:43,fraud_Abbott-Rogahn,entertainment,74.63,M,NE,"Solicitor, Scotland",dbe29230128b03874e77d7a046e93c28,0
+1/1/2019 14:44,fraud_Swift PLC,kids_pets,16.98,F,SC,Animal technologist,1009085eb3bfaf5bf1d72c51f7a87207,0
+1/1/2019 14:45,fraud_Breitenberg-Hermiston,kids_pets,29.35,M,MI,Historic buildings inspector/conservation officer,f0991f23143aa68c47c0fe7361fb0622,0
+1/1/2019 14:45,fraud_O'Hara-Wilderman,food_dining,57.44,M,MT,Chief of Staff,e2e402d50e321519095dfbade497d828,0
+1/1/2019 14:46,fraud_Mosciski Group,travel,2.48,M,FL,Plant breeder/geneticist,b35433ec392e626657dc6df53f556714,0
+1/1/2019 14:46,fraud_Jacobi Inc,health_fitness,39.8,M,AR,Financial adviser,11d8102f19274326c2e574d17a1415ff,0
+1/1/2019 14:46,fraud_Bins-Howell,personal_care,8.39,F,TX,"Engineer, production",e94545cafe5c6d2b1180f7e8b100d43b,0
+1/1/2019 14:47,fraud_Schumm PLC,health_fitness,122.82,F,TX,Sports development officer,a41f51362b76e5d00807871c5a5d7004,0
+1/1/2019 14:47,fraud_Emmerich-Rau,personal_care,13.5,F,OH,"Investment banker, corporate",dac26321ad1496ee6d7200f3ef6fc86a,0
+1/1/2019 14:48,fraud_Ziemann-Waters,health_fitness,55.51,F,WV,Sub,5531e6a4cd8bbec5ac4cd354a0b4a927,0
+1/1/2019 14:48,"fraud_Goyette, Howell and Collier",shopping_pos,7.91,F,VT,"Scientist, marine",4beb05c7e787d75c662a83c4efd3d2e5,0
+1/1/2019 14:48,fraud_Volkman-Predovic,shopping_net,3.82,M,CA,"Editor, magazine features",f8fcbe680196c1788119048a05e62bcb,0
+1/1/2019 14:48,"fraud_Reinger, Weissnat and Strosin",food_dining,71.36,M,ME,"Engineer, electronics",9a4fce0908b928c084cd015de9da9a65,0
+1/1/2019 14:49,fraud_Lind-Buckridge,entertainment,48.95,F,RI,"Nurse, children's",5e4246de0dd3bee24afa74d480b8d93c,0
+1/1/2019 14:49,"fraud_Heathcote, Yost and Kertzmann",shopping_net,7.46,F,SC,Research scientist (physical sciences),f3c3fc9321b3f70286237b4e2c75e061,0
+1/1/2019 14:50,fraud_Dibbert-Green,entertainment,1.6,F,SC,Magazine features editor,bfbec44c30ba21d86d0742949761ee86,0
+1/1/2019 14:50,fraud_Will Ltd,food_dining,1.62,F,ND,Film/video editor,318b966a85ab12a3a5197ab927ca9fe0,0
+1/1/2019 14:50,fraud_Kutch-Wilderman,home,27.4,F,MO,Occupational hygienist,5bdf9866c05ace7166084487071d38cd,0
+1/1/2019 14:51,fraud_Runte-Mohr,food_dining,89.8,F,MS,Trading standards officer,ce1266a8ff1375377c8988152391a0b7,0
+1/1/2019 14:52,"fraud_Dare, Fritsch and Zboncak",health_fitness,121.51,M,NY,Chartered accountant,7cff4f91385c7ec11fcb0bb454316ee6,0
+1/1/2019 14:53,fraud_Thiel PLC,misc_pos,438.76,M,TX,Site engineer,ad8690c46e6805fd50b7832dd6153c0a,0
+1/1/2019 14:54,fraud_Pagac LLC,shopping_pos,183.68,F,IN,"Psychologist, forensic",d42f7a08870ee38e8008d4279fb95ec1,0
+1/1/2019 14:54,"fraud_Prosacco, Kreiger and Kovacek",home,74.35,F,PA,Special educational needs teacher,43edf621eafcba898573312a81ba12c9,0
+1/1/2019 14:54,"fraud_Moore, Dibbert and Koepp",misc_net,115.91,F,IL,"Psychotherapist, child",4c55984102607834299bb2f2c68520d7,0
+1/1/2019 14:55,"fraud_Quitzon, Green and Bashirian",shopping_pos,26.22,F,NY,Records manager,85909f2a27e75e175b8bd8c81b028599,0
+1/1/2019 14:55,fraud_Ratke and Sons,health_fitness,145,F,MO,Agricultural consultant,fb42930f205e910428d5b32945480a86,0
+1/1/2019 14:55,"fraud_Hermiston, Russel and Price",food_dining,5.32,M,OK,"Psychotherapist, child",f42bb61a66b3954ec327fb8d921873f3,0
+1/1/2019 14:56,fraud_Schmidt-Larkin,home,31.81,F,OR,Systems analyst,aa6d936b883e37739bb4c1a8aad20d93,0
+1/1/2019 14:57,fraud_Leannon-Ward,food_dining,16.72,F,KS,Film/video editor,0a013c2622c3842b6569991205982498,0
+1/1/2019 14:57,fraud_Baumbach Ltd,personal_care,16.25,M,AK,"Administrator, education",4defe0f56d55e1abfc523be52630093e,0
+1/1/2019 14:58,fraud_Bahringer-Streich,food_dining,51.77,M,MI,"Engineer, automotive",6873b22c513acde0a0753c3eae1e5e04,0
+1/1/2019 14:58,fraud_Fisher-Schowalter,shopping_net,6.06,M,WI,"Accountant, chartered public finance",060695b4e3310e43afdb318565b6a170,0
+1/1/2019 14:59,"fraud_Lang, Towne and Schuppe",kids_pets,69.86,F,GA,"Conservator, museum/gallery",a37ae2143b9efb69380da1ca43e836a7,0
+1/1/2019 14:59,"fraud_Weber, Thiel and Hammes",kids_pets,8.33,M,WV,Special effects artist,d8fc18357d9f0f7dccefde3e75fbf4e0,0
+1/1/2019 14:59,fraud_Abbott-Steuber,personal_care,140.48,M,PA,Armed forces logistics/support/administrative officer,7e6f458b574415eacc49e1b6001e309e,0
+1/1/2019 15:00,"fraud_Hahn, Bahringer and McLaughlin",personal_care,101.52,F,OH,"Engineer, biomedical",55562de77096550aae0b1508167220ef,0
+1/1/2019 15:00,"fraud_Koss, Hansen and Lueilwitz",home,75.33,F,SC,Biomedical scientist,3432d82af08045fb46f90da2cf8f3aa6,0
+1/1/2019 15:00,"fraud_Roberts, Ryan and Smith",personal_care,16.32,F,AR,"Physicist, medical",87a8cc887f291a45ffc4edabac09c189,0
+1/1/2019 15:00,"fraud_Yost, Schamberger and Windler",kids_pets,63.92,M,OH,Secondary school teacher,7e300d521e7d3be417432f903637813f,0
+1/1/2019 15:01,fraud_Prosacco LLC,personal_care,64.21,F,TX,Radio producer,250f9fe6ef562b8a1d16764f40b1e7a8,0
+1/1/2019 15:01,fraud_Rolfson-Kunde,personal_care,9.39,F,NC,Call centre manager,93e3c968e785af0e7fd0a10c54e58de0,0
+1/1/2019 15:01,"fraud_Hintz, Bauch and Smith",health_fitness,101.77,F,CO,Water engineer,cd3fab99e598e976cc13e154bc775437,0
+1/1/2019 15:01,fraud_Hickle Group,shopping_pos,126.78,M,CA,Immigration officer,72b97b6f31c2a408e7f752f11d1fb5f0,0
+1/1/2019 15:01,fraud_Mohr Inc,shopping_pos,6.39,M,WI,"Engineer, production",68d7d89fcad24384d4c4b8a2927b3cd7,0
+1/1/2019 15:01,"fraud_Monahan, Hermann and Johns",travel,7.36,M,CO,Community arts worker,b0e217c08fcf199f24638d88e3c04aa4,0
+1/1/2019 15:02,"fraud_Weimann, Kuhic and Beahan",shopping_pos,283.62,F,WI,Logistics and distribution manager,bd128e0dd48a466135c97eddb4bec780,0
+1/1/2019 15:02,"fraud_Hermiston, Russel and Price",food_dining,7.62,M,OH,Facilities manager,fa64df6e3227c2206dd39d7dacc00d37,0
+1/1/2019 15:02,"fraud_Weimann, Kuhic and Beahan",shopping_pos,9.17,F,TX,Building surveyor,d527381830d8eb7d94b9dcda60b6de69,0
+1/1/2019 15:02,"fraud_Bahringer, Osinski and Block",food_dining,63.08,M,TX,Petroleum engineer,3e69a789694772f63fd8cab8fdfb1d13,0
+1/1/2019 15:03,fraud_Daugherty LLC,kids_pets,26.85,F,AR,Surgeon,6142d2928c1e7c35d6c7cb9131dd586d,0
+1/1/2019 15:03,"fraud_Medhurst, Labadie and Gottlieb",travel,508.97,M,WI,Television/film/video producer,84db56b4b3307737c948d08bfa508590,0
+1/1/2019 15:03,fraud_McKenzie-Huels,food_dining,348.97,F,SC,Social researcher,aedfc9c4092ff4dee1ea11736a12e672,0
+1/1/2019 15:03,"fraud_Koss, McLaughlin and Mayer",food_dining,40.17,F,OR,Barrister,3f63effe1091abfc64974e363bf6942d,0
+1/1/2019 15:04,fraud_Cartwright PLC,kids_pets,33.3,F,MO,Counsellor,4b975ad05803d84c0675ecb5fbcf6dbe,0
+1/1/2019 15:04,fraud_Bode-Schuster,kids_pets,3.18,F,WA,Public house manager,9386e6ea95432c29bb371cf82fa1f98d,0
+1/1/2019 15:05,fraud_Grimes LLC,entertainment,83.08,M,IL,Radio broadcast assistant,4e07df276addd033beb3b9d8e218e34a,0
+1/1/2019 15:07,fraud_Bins-Howell,personal_care,194.34,F,MO,Electronics engineer,4324f6b08f62c5fb5ab08a5bc77d6b76,0
+1/1/2019 15:07,"fraud_Douglas, DuBuque and McKenzie",travel,469.2,M,GA,Audiological scientist,c46030d5597e7cce016b8f1788a2e53d,0
+1/1/2019 15:07,"fraud_Bernhard, Grant and Langworth",shopping_pos,1.28,M,AL,"Editor, commissioning",76d0cd587e7c7245c6d6fa3279b1a563,0
+1/1/2019 15:08,fraud_Halvorson Group,misc_pos,4.52,F,MD,Regulatory affairs officer,263306eba48d8f57eecc65af16287d5e,0
+1/1/2019 15:08,fraud_Hackett Group,travel,8.47,F,AR,Psychiatric nurse,fc3b959aadf761ae3a0db7b1256e6cab,0
+1/1/2019 15:08,"fraud_Schroeder, Wolff and Hermiston",travel,8.85,F,TX,"Physicist, medical",60e249d9d216ea42b2e9cecf693f9dc1,0
+1/1/2019 15:08,fraud_Schmeler-Howe,personal_care,39.7,F,PA,Early years teacher,42864835d4b48a96a7b9d5b2fe5c483e,0
+1/1/2019 15:09,fraud_Larson-Moen,entertainment,78.51,M,CA,Systems analyst,bb99744d4d65442635bef90a7375adc9,0
+1/1/2019 15:10,fraud_Predovic Inc,shopping_net,6.5,F,NY,Psychotherapist,bcbd7d0179d05e322dfe3b83511dcfe8,0
+1/1/2019 15:10,fraud_Langworth LLC,personal_care,29.27,F,NY,"Librarian, public",59e7e640005f358283f494154c20b6be,0
+1/1/2019 15:10,fraud_Bartoletti and Sons,personal_care,65.09,M,VA,"Geologist, engineering",753a18a2e9d169a0a4efc169cb519970,0
+1/1/2019 15:11,fraud_Bernier and Sons,kids_pets,74.62,F,TX,Financial adviser,62b75c923c2d5be25a820b3d9fb804bd,0
+1/1/2019 15:11,"fraud_Hettinger, McCullough and Fay",home,1.11,F,TX,Barrister,2ecd39e8c8014524a587da782c43ee0c,0
+1/1/2019 15:12,fraud_White and Sons,home,77.34,M,PA,Oceanographer,7c59bf1aff99c513f0bdcb3b9b5a1cef,0
+1/1/2019 15:12,fraud_Klocko LLC,misc_net,126.38,M,NC,Paramedic,0ac66bf296bedba3f795a05fe9c260f0,0
+1/1/2019 15:12,fraud_Beier-Hyatt,shopping_pos,7.11,M,IA,IT trainer,36e4fc9d2408e37f02fc8e6f6bdbf328,0
+1/1/2019 15:12,fraud_Bernhard-Lesch,food_dining,41.2,M,PA,Nutritional therapist,b7d48dbecf1a6a079101e0f1b92f9ca5,0
+1/1/2019 15:13,fraud_Weber and Sons,food_dining,73.43,M,SD,Bookseller,3304e1001fac03d8a5e78789731af34e,0
+1/1/2019 15:14,fraud_Dickinson-Rempel,misc_pos,8.96,F,IN,Counsellor,e56af69ecba86599d02253234169655e,0
+1/1/2019 15:14,fraud_Hills-Witting,shopping_net,19.45,F,WV,Statistician,098e4607bd290a274d9772acc5860de8,0
+1/1/2019 15:15,fraud_Satterfield-Lowe,travel,3.11,F,ME,Make,97f4a71374150900c61097ff03411363,0
+1/1/2019 15:15,fraud_Breitenberg-Hermiston,kids_pets,56.67,F,SC,Magazine features editor,90ddd940c207d07737c608863143bb4b,0
+1/1/2019 15:15,fraud_Jakubowski Inc,home,18.13,F,IA,Engineering geologist,c2362c7f40a6093591829a752efce938,0
+1/1/2019 15:16,"fraud_Runte, Green and Emard",health_fitness,14.74,M,MD,Energy engineer,e5fe4dcfddff95ff1ebaefc82f09de06,0
+1/1/2019 15:16,fraud_Daugherty LLC,kids_pets,35.73,F,CA,Podiatrist,d717895c2edd4194db593042115b5ffb,0
+1/1/2019 15:16,fraud_Kutch-Wilderman,home,13.1,M,NM,"Therapist, art",8aad33aa0bb9b8b8a0acc19c8ead3d78,0
+1/1/2019 15:17,"fraud_Swaniawski, Lowe and Robel",shopping_pos,3.54,F,NC,Dispensing optician,69aae23e092169bd36e016673879eb1c,0
+1/1/2019 15:17,"fraud_Bahringer, Bergnaum and Quitzon",home,33.6,F,SC,Technical brewer,d3836b9fb69ff5dbcd174c2f94287dc5,0
+1/1/2019 15:17,fraud_Gleason-Macejkovic,shopping_net,178.85,F,SC,Biomedical scientist,40c41da5c1862eb62cb5bc46d67d0e61,0
+1/1/2019 15:17,fraud_Kling-Ernser,entertainment,32.21,M,NY,Radio producer,8e0985f10a18b0f3b9a76e29041d4693,0
+1/1/2019 15:18,fraud_Bernier and Sons,kids_pets,13.62,F,TX,Building surveyor,e2547a7d780a4424ee16ac1e280e3598,0
+1/1/2019 15:18,fraud_Gaylord-Powlowski,home,5.95,F,WV,Statistician,12155b55961c38b4b67add2a0a5d187e,0
+1/1/2019 15:19,fraud_Kerluke-Abshire,shopping_net,7.84,M,NJ,Health promotion specialist,c954b4f523709646ae6d3d315179a769,0
+1/1/2019 15:19,fraud_Beier and Sons,home,30.94,F,WV,Physiotherapist,83cfc663d3fc82a2973d55a4febaf892,0
+1/1/2019 15:20,fraud_Weimann-Lockman,kids_pets,32.23,F,KS,Arboriculturist,743399add054197905cf29108188f8f8,0
+1/1/2019 15:20,fraud_Connelly-Carter,home,19.62,F,FL,Waste management officer,bca38cc00b33caeff86ae36d8b3bed58,0
+1/1/2019 15:20,fraud_Keeling-Crist,misc_pos,7.95,M,MD,Operations geologist,a1ca818b82860f5467c9a64e8f4b018b,0
+1/1/2019 15:21,fraud_Stark-Batz,entertainment,157.47,M,MD,Company secretary,0213cbd465d7bfefbf3774018ea58920,0
+1/1/2019 15:21,fraud_Terry Ltd,home,66.81,M,FL,Plant breeder/geneticist,b858ce7f236a363db8bfb9de8031ce6f,0
+1/1/2019 15:21,"fraud_Lowe, Dietrich and Erdman",kids_pets,102.59,M,MI,Water quality scientist,0e2ed59ab5832cfde02873255436f79f,0
+1/1/2019 15:21,fraud_Jast Ltd,shopping_net,4.65,F,FL,"Librarian, public",b8708c103bf1f778edcfc3c0040e824e,0
+1/1/2019 15:21,"fraud_Yost, Schamberger and Windler",kids_pets,21.86,M,NY,Metallurgist,27bddb038a4fb37502d0d83ec86d74bf,0
+1/1/2019 15:23,fraud_Cartwright PLC,kids_pets,50.31,F,KS,Probation officer,2a1e4ad5443453bbbb0bb0914150ce31,0
+1/1/2019 15:23,"fraud_Welch, Rath and Koepp",entertainment,20.84,M,IA,Agricultural consultant,ab7208f7000df5108e7ca607c17c2d3d,0
+1/1/2019 15:23,"fraud_Becker, Harris and Harvey",personal_care,62.47,M,MD,Podiatrist,ec0a0c551b9e801f30397d9173ffed0a,0
+1/1/2019 15:23,fraud_Maggio-Fahey,misc_pos,8.64,M,MI,"Doctor, hospital",c471b2087ec857eea275a4a1660c4e20,0
+1/1/2019 15:24,fraud_Watsica LLC,personal_care,13.07,F,MO,Production manager,1008b908e070155419a41539111056ae,0
+1/1/2019 15:25,"fraud_McCullough, Hudson and Schuster",food_dining,98.07,M,CA,Chemical engineer,95f57d9404cf056a826ec8b53c108547,0
+1/1/2019 15:25,fraud_Kilback LLC,food_dining,22.83,F,WI,Applications developer,af204ea18157b629c84a259a24e79086,0
+1/1/2019 15:27,fraud_Gerhold LLC,home,119.24,F,OK,Bookseller,55586fb08f780e34ff145cec7e531b3b,0
+1/1/2019 15:27,"fraud_Romaguera, Wehner and Tromp",kids_pets,92.48,F,WA,Special educational needs teacher,f16d17932951db1e8664b82c65fd0da9,0
+1/1/2019 15:27,"fraud_Walter, Hettinger and Kessler",personal_care,6.29,M,IA,Probation officer,4850efbdc14d524d819a290cf8fe2a0b,0
+1/1/2019 15:27,fraud_Gulgowski LLC,home,45.85,F,IL,Magazine journalist,ff95b35e482440e2fa3962edabada28a,0
+1/1/2019 15:28,fraud_Predovic Inc,shopping_net,4.1,F,GA,Theatre manager,b2185f1f24d9390ee342aed63be3954f,0
+1/1/2019 15:28,fraud_Kutch-Wilderman,home,36.32,F,WA,Musician,a90ccd075dec38f3f63faf77771b3cfd,0
+1/1/2019 15:29,fraud_Botsford and Sons,home,39.17,M,NH,"Therapist, music",fdbc3382b3f48ede1a474e103be3474d,0
+1/1/2019 15:31,fraud_Gottlieb-Hansen,personal_care,23.28,F,MO,Production manager,59647fbb3e348d296e53626c160a6a09,0
+1/1/2019 15:31,"fraud_Pouros, Walker and Spencer",kids_pets,56.58,F,KS,Tourism officer,7b7b648382b5161ecc52ac4fbf4bc8ef,0
+1/1/2019 15:31,fraud_Beier-Hyatt,shopping_pos,2.05,F,OK,Barrister,ff60cdcce5c2aa9889c4cb412a692158,0
+1/1/2019 15:31,fraud_Skiles LLC,home,94.21,M,AL,"Engineer, automotive",ce7edbd8c7bf9c02d3c8a8a413e25808,0
+1/1/2019 15:32,"fraud_Bernhard, Grant and Langworth",shopping_pos,149.44,M,VT,"Development worker, community",53bed70243f78062853004813c9776e2,0
+1/1/2019 15:33,"fraud_Labadie, Treutel and Bode",shopping_net,2.76,M,FL,"Engineer, land",0de2c12991c740942557886ef552deed,0
+1/1/2019 15:33,fraud_Schaefer Ltd,kids_pets,57.89,F,TX,"Radiographer, therapeutic",2c986120f322737dfb9206951f0fb010,0
+1/1/2019 15:33,"fraud_Heathcote, Yost and Kertzmann",shopping_net,103.72,F,GA,Educational psychologist,f8a24906dce3776b669ec7349450cb8a,0
+1/1/2019 15:33,"fraud_Hahn, Bahringer and McLaughlin",personal_care,16.28,F,MD,Regulatory affairs officer,283e3d8232bb7f93887c5c017e450d02,0
+1/1/2019 15:34,fraud_Beier and Sons,home,26.82,F,NE,Insurance broker,46f723b08e6c93c1160a067a3b05914f,0
+1/1/2019 15:34,fraud_Pollich LLC,home,80.42,F,TX,Multimedia programmer,bcc3d4fbd9cdd108f6f6a481adf7790c,0
+1/1/2019 15:35,fraud_Leannon-Ward,food_dining,17.71,M,MI,"Engineer, automotive",99c09d08a10b5d2fd6a117bd95bd51c2,0
+1/1/2019 15:35,fraud_Goldner-Lemke,entertainment,79.04,M,OR,Economist,6381ab88d125b50700d0cd834dbf2af1,0
+1/1/2019 15:35,fraud_Little-Gleichner,travel,3.42,M,MT,"Engineer, drilling",ecda0e9be55b2b325ec37eed637f4ff0,0
+1/1/2019 15:35,fraud_Grimes LLC,entertainment,44.03,M,OK,Media buyer,1b06cdc28e19da926b13316a7b09d706,0
+1/1/2019 15:35,fraud_Frami Group,entertainment,3.43,F,GA,"Engineer, technical sales",a427eded0db7098ca893992308c740ec,0
+1/1/2019 15:36,fraud_Beer-Jast,kids_pets,2.87,F,TX,"Engineer, production",ccbeceda52b09ab02539253a5e05be2f,0
+1/1/2019 15:36,fraud_Ernser-Feest,home,67.5,F,WV,Forensic psychologist,df1d3761c032afcbfa65807f557a37fe,0
+1/1/2019 15:38,fraud_Klein Group,entertainment,10.08,F,MN,Data scientist,061ef1cb25c58df60c068b80b1c6ac2e,0
+1/1/2019 15:38,"fraud_Torp, Muller and Borer",health_fitness,118.71,M,MA,English as a second language teacher,1b5f0cd96cf8102d6e9fb09f8211f99e,0
+1/1/2019 15:38,fraud_Shanahan-Lehner,personal_care,179.59,F,WI,"Engineer, civil (contracting)",d00289e22a0b06633bbbe3b40981f471,0
+1/1/2019 15:38,"fraud_Roberts, Ryan and Smith",personal_care,9.33,F,GA,Tax adviser,b0876a3e07fa746447a903956bffe469,0
+1/1/2019 15:38,fraud_Hermann and Sons,shopping_pos,8.76,M,SC,Materials engineer,eae4bb5c0759b2c2ea90c2a735d43309,0
+1/1/2019 15:39,"fraud_Haley, Jewess and Bechtelar",shopping_pos,6.28,F,OH,Hospital doctor,3207e75e207bea5725d61d90805e55ae,0
+1/1/2019 15:39,fraud_Gislason Group,travel,2.13,M,AR,"Scientist, biomedical",337742bd35bb3c9156bd2038ad90b011,0
+1/1/2019 15:39,fraud_Barrows PLC,shopping_pos,51.09,M,OR,Research scientist (physical sciences),44c028e7cb3077c572312a84db8f22e2,0
+1/1/2019 15:39,fraud_Botsford and Sons,home,43.59,F,CT,Herpetologist,e099894352508a11a8812f56d4019e27,0
+1/1/2019 15:40,fraud_Abbott-Steuber,personal_care,71.42,M,SC,Mechanical engineer,423e23d3e1f09309ecc3e7382eaed27b,0
+1/1/2019 15:41,"fraud_Dare, Fritsch and Zboncak",health_fitness,74,M,PA,Garment/textile technologist,6e86fec3e7338cce1345eaae275b24ac,0
+1/1/2019 15:41,fraud_Kuhn Group,food_dining,8.08,M,IN,Community arts worker,69ddfcc8f7bd7fcfce56fa8a980f296b,0
+1/1/2019 15:41,fraud_Pagac LLC,shopping_pos,9.56,M,NM,Historic buildings inspector/conservation officer,a341f1e6683f774b63cf1e49fd4124ea,0
+1/1/2019 15:42,fraud_Fahey Inc,kids_pets,176.48,M,AR,"Scientist, biomedical",60027080474e0a8882cedb8df8d977f2,0
+1/1/2019 15:42,fraud_Gottlieb-Hansen,personal_care,19.03,F,TX,Financial adviser,19554a1673b8f5422bbceeffccac8943,0
+1/1/2019 15:42,"fraud_Streich, Rolfson and Wilderman",kids_pets,60.61,F,ME,Make,60fc97c48d023e2edba562d7e95eab86,0
+1/1/2019 15:43,fraud_Homenick LLC,personal_care,1.46,M,OK,Fitness centre manager,e627e515f8610ebd6d541f7665d9f464,0
+1/1/2019 15:43,fraud_Bins-Tillman,entertainment,77.85,M,CA,"Editor, magazine features",05d4776826bc2e9c35c7c24752f2ce58,0
+1/1/2019 15:43,fraud_Beier LLC,entertainment,70.32,M,SD,Bookseller,bb5fb86831a89cebbbc4e4c4440ce5f9,0
+1/1/2019 15:43,"fraud_Runte, Green and Emard",health_fitness,125.91,M,FL,"Engineer, land",28ffadbf75d2c84ed5384f52feb949d2,0
+1/1/2019 15:44,fraud_Jewess LLC,shopping_pos,94.81,F,AZ,Contractor,00aa2b8433da2608fee5cbeb8d9e42c1,0
+1/1/2019 15:44,fraud_White and Sons,home,21.08,M,WI,"Engineer, production",f6e494662a1cc0e815d8da5fefc4a99d,0
+1/1/2019 15:45,fraud_Ankunding-Carroll,travel,5.33,M,NH,"Scientist, research (medical)",9897f660d2b00abdf7bfcb727ab86aee,0
+1/1/2019 15:46,fraud_Ernser-Lynch,food_dining,16.17,F,CA,"Therapist, occupational",b1c9e5d006cdc67576a061fd988129cc,0
+1/1/2019 15:46,fraud_Zulauf LLC,personal_care,44.09,F,NY,"Librarian, public",ad66618d7fe179473d3fef98fda55a7a,0
+1/1/2019 15:47,"fraud_Pouros, Walker and Spencer",kids_pets,25.48,M,TX,"Librarian, public",661cb94d00a2f7e1a1fddd9665f3ed91,0
+1/1/2019 15:47,fraud_Jewess LLC,shopping_pos,1.03,F,TX,Press sub,69787447fedf569daf5d48ea33829658,0
+1/1/2019 15:47,fraud_Jacobi Inc,health_fitness,186.19,F,MS,Medical physicist,7b69be66057424be0842a580a61119a7,0
+1/1/2019 15:47,"fraud_Hahn, Douglas and Schowalter",travel,6.36,F,TX,Barrister,4b785728a209c8db0a62783fcf46852c,0
+1/1/2019 15:47,fraud_Abbott-Steuber,personal_care,111.13,M,NE,"Nurse, mental health",40ca0f0111ef54d04995b0ca9d5287f1,0
+1/1/2019 15:47,"fraud_Lesch, D'Amore and Brown",food_dining,2.89,M,IL,Commercial/residential surveyor,08c6939aec5b19b10522284531fac7dc,0
+1/1/2019 15:48,"fraud_Witting, Beer and Ernser",home,85.65,M,CO,Mental health nurse,bf5459c3bcc12a19c9e90d2119a8e00a,0
+1/1/2019 15:48,fraud_Kautzer and Sons,personal_care,4.19,F,NY,IT trainer,7c68cf79c5dc8774e42f12aea299b3ba,0
+1/1/2019 15:48,fraud_Morissette LLC,entertainment,72.23,F,MO,Agricultural consultant,f2f1a4945fc6b5f84822f6ea1dd8e7b3,0
+1/1/2019 15:48,"fraud_Berge, Kautzer and Harris",personal_care,46.93,F,WV,Statistician,ce4387d8d0f07bd6e468eb1760c3f550,0
+1/1/2019 15:48,fraud_Berge-Hills,kids_pets,48.08,M,PA,Oceanographer,481a68a4d4ed0677e5c8da0a36f72731,0
+1/1/2019 15:49,fraud_Donnelly LLC,entertainment,22.46,M,MI,"Doctor, hospital",f13e4f81fba4b1ca03224ac7ac7852bb,0
+1/1/2019 15:49,fraud_Volkman PLC,food_dining,19.06,M,NY,Further education lecturer,ef5e22013a8457f92e05984561b10b0b,0
+1/1/2019 15:51,fraud_Kassulke PLC,shopping_net,17.86,F,WY,"Pilot, airline",1afd0bac075c4ba1a866dfb03535c110,0
+1/1/2019 15:51,"fraud_Terry, Johns and Bins",misc_pos,9.77,F,NY,"Psychotherapist, child",a867e58a050e087287c98d089d0263f6,0
+1/1/2019 15:51,"fraud_Okuneva, Schneider and Rau",shopping_pos,5.23,M,ME,"Engineer, electronics",f7aab14c7b89a4ba2e42c9276baef225,0
+1/1/2019 15:51,fraud_Zboncak LLC,food_dining,41.38,F,NY,Database administrator,f43cbac11d8f45774daf51efa6d0394b,0
+1/1/2019 15:51,"fraud_Turner, Ziemann and Lehner",food_dining,58.85,F,IA,"Teacher, early years/pre",e49744125347b52bd78fbe6c42b7d265,0
+1/1/2019 15:53,"fraud_Heathcote, Yost and Kertzmann",shopping_net,3.99,F,IL,Race relations officer,37afec7af5c81892e2288eb35fe345de,0
+1/1/2019 15:53,fraud_Brown Inc,kids_pets,63.1,F,CA,Occupational psychologist,d8ee72f65e807fe60823d8b0e323e496,0
+1/1/2019 15:54,fraud_Pacocha-Bauch,shopping_pos,776.98,F,WV,Forensic psychologist,c654671b2ab1967cb230c64afd359e6a,0
+1/1/2019 15:54,fraud_Grimes LLC,entertainment,9.6,F,MO,Cytogeneticist,eefbde21db646616bed2005eb04d360d,0
+1/1/2019 15:54,fraud_Denesik and Sons,shopping_pos,137.64,M,IL,Radio broadcast assistant,a3253401042e7ef5d94a6a0f274c6444,0
+1/1/2019 15:55,fraud_Padberg-Sauer,home,33.18,F,UT,Futures trader,5ee8f211c3d432db82c74db186364ea5,0
+1/1/2019 15:55,fraud_Schulist Ltd,food_dining,17.13,F,SC,Museum/gallery conservator,ae31520fce136ea6579d401fd1636da0,0
+1/1/2019 15:56,fraud_Rau-Grant,kids_pets,29.25,M,CA,Barista,981f1c53b24fe59780f0469e5dbec175,0
+1/1/2019 15:56,fraud_Little Ltd,kids_pets,21.13,F,NC,Chief Strategy Officer,daceb8cd18519ec2ac30f744e05826aa,0
+1/1/2019 15:56,fraud_Renner Ltd,home,1.65,F,NM,Civil Service administrator,ec8d3b43144bcaa4c34e9d95ca726c9c,0
+1/1/2019 15:56,"fraud_Bernhard, Grant and Langworth",shopping_pos,217.73,F,VA,Chartered accountant,7002cba2b73ae85b6bb4e2b0d0619c61,0
+1/1/2019 15:57,fraud_Hammes-Beatty,kids_pets,31.24,M,MD,Press photographer,c0d28ed6607cc976ebe0d868bbc35c1d,0
+1/1/2019 15:57,"fraud_Hahn, Bahringer and McLaughlin",personal_care,65.26,F,WV,Forensic psychologist,1caba6df4f3c141333a2b11b1a45a919,0
+1/1/2019 15:57,fraud_Stark-Batz,entertainment,39.32,F,AR,Surgeon,22c8fe946cfc89e33d8910e313a8ae96,0
+1/1/2019 15:57,"fraud_Douglas, Schneider and Turner",shopping_pos,6.27,F,AR,"Scientist, audiological",d3318ac4ff0d41a4d707c5beff20e2da,0
+1/1/2019 15:57,fraud_Rippin-VonRueden,health_fitness,52.36,M,MD,Operations geologist,94788a3bf67ea338bd91266fef6e59e2,0
+1/1/2019 15:58,fraud_Goyette-Gerhold,kids_pets,128.67,F,OR,"Engineer, biomedical",0be296bc45f0b611875d1d67eb51db33,0
+1/1/2019 15:59,fraud_Greenholt Ltd,health_fitness,74.62,M,MI,Electrical engineer,0f0beab7b987ffcc8eae34141ee28d1b,0
+1/1/2019 15:59,fraud_Osinski Inc,personal_care,58.46,F,IL,Medical secretary,57e370436e01bcce99cbe8f5838ae804,0
+1/1/2019 15:59,"fraud_Graham, Hegmann and Hammes",food_dining,20.66,F,CA,Airline pilot,5bcd9f7c01f968c6c3887bf3ea168f7e,0
+1/1/2019 16:00,fraud_Berge-Ullrich,home,47.79,F,NC,Call centre manager,7c625c501ac560a09ad21d1b6fdf4405,0
+1/1/2019 16:00,fraud_Monahan-Morar,personal_care,58.62,F,NY,"Teacher, primary school",e88378e60ce6ded8de76ce5e6dccaff8,0
+1/1/2019 16:00,fraud_Wuckert-Goldner,home,27.84,M,NY,Further education lecturer,d1aa86ee8a932249b284a7721b84b9d4,0
+1/1/2019 16:01,fraud_Gaylord-Powlowski,home,37.33,M,IA,Administrator,99259db0fcec0d7130431b7f64b9ae1d,0
+1/1/2019 16:01,fraud_Kertzmann LLC,health_fitness,47.96,F,FL,Environmental consultant,32628589c6d7f8f8475b7be2da428d7a,0
+1/1/2019 16:01,"fraud_Ruecker, Beer and Collier",shopping_net,1.29,M,NM,"Therapist, art",44793eab1f270cf540e2addf9bd78b35,0
+1/1/2019 16:01,"fraud_Schroeder, Hauck and Treutel",entertainment,67.13,M,IA,Probation officer,148c2686e243375bede1b20600a0da51,0
+1/1/2019 16:02,"fraud_Daugherty, Pouros and Beahan",shopping_pos,3.16,F,MI,Learning disability nurse,f8762daedf1ba71bf286f08f3413c1ff,0
+1/1/2019 16:02,"fraud_McCullough, Hudson and Schuster",food_dining,2.98,F,OK,Barrister,9e042a0bc1979b6818799cbf74b251d4,0
+1/1/2019 16:02,fraud_Weimann-Lockman,kids_pets,177.11,F,FL,Paramedic,8c56488eeb51de7c360a10edb0b7c087,0
+1/1/2019 16:02,"fraud_Mante, Luettgen and Hackett",health_fitness,65.62,F,TX,"Radiographer, therapeutic",7bfd341faeb85179af45fbdb6ce56cc1,0
+1/1/2019 16:02,fraud_Kertzmann LLC,health_fitness,34.7,M,NC,"Scientist, research (maths)",ed0c4cac72a942a2662b81cce91dbf4b,0
+1/1/2019 16:03,fraud_Hills-Witting,shopping_net,3.89,F,MI,"Exhibitions officer, museum/gallery",9c7f4171fce7111db34eb60f56d74b9b,0
+1/1/2019 16:04,fraud_Volkman PLC,food_dining,20.46,F,KS,Tourism officer,72c8925bf2e528518b8358e4bfdf3528,0
+1/1/2019 16:04,"fraud_Prosacco, Kreiger and Kovacek",home,66.65,M,PA,Retail merchandiser,df941bf319f556872d8b5650141ff601,0
+1/1/2019 16:05,fraud_Dooley Inc,shopping_pos,149.58,F,TX,Sports development officer,3ace21456aed0f8c954ea732270dc93a,0
+1/1/2019 16:05,fraud_Bernhard-Lesch,food_dining,82.19,F,WA,Musician,9f9724cadcc815d518164a35df283c6a,0
+1/1/2019 16:05,fraud_Satterfield-Lowe,travel,8.78,F,KS,Textile designer,addbeec87fb8401b4040d0ba935b6be8,0
+1/1/2019 16:06,"fraud_Hahn, Douglas and Schowalter",travel,4.37,F,PA,"Administrator, charities/voluntary organisations",5be612692a03034431e37dadcb9280b6,0
+1/1/2019 16:07,fraud_Little Ltd,kids_pets,4.32,M,PA,"Scientist, marine",1d48cffcb14f8d2d78a643dba4a6017c,0
+1/1/2019 16:07,"fraud_Torp, Muller and Borer",health_fitness,26.37,F,GA,Educational psychologist,e6ddfbc6f34e4c8c253eb1924542a76d,0
+1/1/2019 16:08,fraud_Kub-Heaney,health_fitness,36.45,F,TX,Cytogeneticist,e18ad9c5ca134574a9c3fd448e5d5f1b,0
+1/1/2019 16:09,"fraud_Armstrong, Walter and Gottlieb",food_dining,78.21,F,LA,"Radiographer, diagnostic",5155617dc9ede6fda477a717d606ac46,0
+1/1/2019 16:10,"fraud_Goyette, Howell and Collier",shopping_pos,13.7,F,OH,Environmental manager,7239c2cac2689d8d09cc2ef2805a962a,0
+1/1/2019 16:10,fraud_Schiller Ltd,personal_care,71.84,F,PA,Patent attorney,a6b134fec6b8bb28146498f57844d3bf,0
+1/1/2019 16:10,"fraud_Pouros, Walker and Spencer",kids_pets,68.67,M,FL,Plant breeder/geneticist,33890b2b65005f32604683de7b1358c4,0
+1/1/2019 16:12,fraud_Torphy-Kertzmann,health_fitness,11.24,F,LA,Community education officer,c443c097a3f9f0b083e0eee4ffd3f48e,0
+1/1/2019 16:12,fraud_Conroy-Emard,food_dining,61.82,M,IL,Futures trader,396c6335a27e273a50797c4306d44d2d,0
+1/1/2019 16:12,fraud_Donnelly LLC,entertainment,170.12,F,IN,"Psychologist, forensic",609e080bdb29db8299cce938f68ef227,0
+1/1/2019 16:13,"fraud_Yost, Schamberger and Windler",kids_pets,20.16,F,IA,Camera operator,1d1d5edb3d954595d160bb76a7e9841d,0
+1/1/2019 16:14,"fraud_Moore, Williamson and Emmerich",home,1.47,F,MN,Naval architect,9794a5bf3f6539efcf9a8c7e6eb922b5,0
+1/1/2019 16:14,fraud_Lynch Ltd,shopping_pos,21.99,F,IA,Camera operator,67241a0dd63eb8132ce837c595e41f81,0
+1/1/2019 16:14,"fraud_Reichert, Huels and Hoppe",shopping_net,6.14,F,MO,Investment analyst,056e427a18edcf94b70e19960c9a6feb,0
+1/1/2019 16:15,fraud_Bode-Rempel,kids_pets,10.24,F,PA,Tree surgeon,73d738e8c0fc38f9da65df7a847638e1,0
+1/1/2019 16:15,fraud_Gibson-Deckow,entertainment,10.85,F,AL,Materials engineer,8a41e92d82c072545593c5e65a622b97,0
+1/1/2019 16:15,"fraud_Mosciski, Ziemann and Farrell",shopping_net,5.84,M,WY,"Lecturer, higher education",9223c166a7be949edbe4a6cb39b39c96,0
+1/1/2019 16:16,fraud_Denesik and Sons,shopping_pos,1025.38,F,TN,Warden/ranger,5cebc54b90d0a21e72fa18f6429a11d4,0
+1/1/2019 16:16,fraud_Jakubowski Inc,home,55.84,M,MD,Press photographer,d01f9f38c4a04902fdb13ad80e0dfd67,0
+1/1/2019 16:17,fraud_Gleason and Sons,kids_pets,191.18,F,WI,Applications developer,7d65ab35793b6e396d3947bf02d2a6d4,0
+1/1/2019 16:18,fraud_Hilpert-Conroy,kids_pets,73.65,M,CA,Chartered public finance accountant,d015ec93ac7a579d27cf93a94f69165f,0
+1/1/2019 16:18,"fraud_Ledner, Hartmann and Feest",health_fitness,9.79,F,SC,Animal technologist,397d059aacdc5adc04189b1142e7b4c8,0
+1/1/2019 16:18,fraud_Cormier LLC,shopping_net,5.17,M,TN,Furniture conservator/restorer,4394dbae5d0ab0c761c7edf7390958d9,0
+1/1/2019 16:18,fraud_McGlynn-Jaskolski,misc_pos,1.74,M,NY,Lexicographer,daba6dc6c6718b9d9e0c4b16fb0090ed,0
+1/1/2019 16:18,fraud_Marvin-Lind,personal_care,4.67,F,NE,Insurance broker,fcb1551665e9e7b4a50c3e7894380760,0
+1/1/2019 16:19,"fraud_Roberts, Daniel and Macejkovic",kids_pets,77.21,F,OK,"Programme researcher, broadcasting/film/video",c996bd9adc8244d774753d2ebdcdfd22,0
+1/1/2019 16:20,fraud_Mohr Inc,shopping_pos,6.12,F,VT,"Scientist, marine",7ff46b43c4c76bc43934a8a2d8f9f3f3,0
+1/1/2019 16:21,fraud_Hermann and Sons,shopping_pos,7.67,F,MI,Immunologist,4598cccc2ff0aa37ba26eac67ce47677,0
+1/1/2019 16:21,"fraud_Hermiston, Russel and Price",food_dining,42.98,F,IL,Landscape architect,1ff47b13b85d4cbc4d34afd1ff543cd7,0
+1/1/2019 16:21,fraud_Turner LLC,travel,9.98,M,NV,Immunologist,a0379cc8349970e7136d5d81e480a533,0
+1/1/2019 16:22,fraud_Waelchi-Wolf,kids_pets,54,F,IL,"Buyer, industrial",d5cdca73a47ad06b10dddb2cba2b5361,0
+1/1/2019 16:22,fraud_Rolfson-Kunde,personal_care,17.21,F,CA,Sales executive,ed56ff2860068ba47c10a64fcc6b3269,0
+1/1/2019 16:22,fraud_Rolfson-Kunde,personal_care,4,M,MI,Horticultural consultant,8915461eb5a1bc759b3c748a6df3b984,0
+1/1/2019 16:24,"fraud_Hauck, Dietrich and Funk",kids_pets,5.46,F,KY,Insurance risk surveyor,6583598d87b4e8f15ae9150f692eba6a,0
+1/1/2019 16:24,"fraud_O'Connell, Botsford and Hand",home,9.78,F,TX,Sports development officer,abb54136c970cbc2746ad13ad1f58483,0
+1/1/2019 16:24,fraud_McDermott-Rice,misc_pos,8.71,M,MD,Company secretary,2dded8ae0f4507152db7aa2a944a75e6,0
+1/1/2019 16:24,"fraud_Hauck, Dietrich and Funk",kids_pets,19.34,F,IL,Medical secretary,50b531c1d5890f8ef03384cfbaa02006,0
+1/1/2019 16:24,fraud_Stark-Koss,home,29.55,F,WV,Physiotherapist,f3543d7c6ede37fe5e441cfb986a2a23,0
+1/1/2019 16:25,fraud_Crooks and Sons,personal_care,12.73,M,NY,Travel agency manager,c7ca1bde7958d3978f3e4eb6f84cf42d,0
+1/1/2019 16:25,fraud_Waelchi Inc,kids_pets,52.54,M,VA,"Designer, multimedia",51a6f1c7574dc28cdf3c2aea2dac3aac,0
+1/1/2019 16:26,fraud_Eichmann-Kilback,home,47.58,F,AL,Exercise physiologist,0cd2aff599108e9181a408f2d131b7ea,0
+1/1/2019 16:26,fraud_Hermann-Gaylord,misc_pos,1.93,F,WA,Special educational needs teacher,04a953c9601dd378f92d2b77c342e436,0
+1/1/2019 16:27,fraud_Kihn-Fritsch,food_dining,5.85,F,TX,Lexicographer,31e32371d287fddbca4336bd765c3527,0
+1/1/2019 16:27,"fraud_Graham, Hegmann and Hammes",food_dining,15.26,M,MT,"Engineer, drilling",ce81251dc0f49ea86b6d29adc8f41586,0
+1/1/2019 16:28,fraud_McGlynn-Jaskolski,misc_pos,6.11,F,IL,Medical secretary,7e7b9a36bce06689b28c781ed142e962,0
+1/1/2019 16:28,"fraud_Hoppe, Harris and Bednar",entertainment,23.77,F,OK,Amenity horticulturist,81ff8891534e9bb6bc9310aac8c72acc,0
+1/1/2019 16:28,fraud_Effertz LLC,entertainment,91.99,M,GA,Claims inspector/assessor,3f0fd866159a54b06f56569bb1c203ab,0
+1/1/2019 16:29,fraud_Kozey-Boehm,shopping_net,31.09,F,LA,"Designer, furniture",1135790a94fe09eef7772f2dfdff0fd3,0
+1/1/2019 16:29,"fraud_Bahringer, Bergnaum and Quitzon",home,202.33,M,OH,Building control surveyor,8484c0ab19cef576e95bc386200e0d25,0
+1/1/2019 16:29,fraud_Heathcote LLC,shopping_net,411.05,F,CO,Water engineer,bff0c5ee21e4b589f90bcbb9abfcfde9,0
+1/1/2019 16:30,"fraud_Armstrong, Walter and Gottlieb",food_dining,14.37,F,AL,Materials engineer,72add251c4b30c398ad5f0ffc645914c,0
+1/1/2019 16:31,fraud_Lubowitz-Walter,kids_pets,48.43,F,MA,Radio producer,fb78676320beda4e755a2b994d7015a7,0
+1/1/2019 16:31,fraud_Bernier and Sons,kids_pets,10.29,F,NM,"Surveyor, land/geomatics",ba1bdd81bb234a2eafca791594c3d125,0
+1/1/2019 16:31,"fraud_Moore, Williamson and Emmerich",home,40.46,M,IL,"Development worker, community",8be439ceab60bcd609cced1eb8bf01dc,0
+1/1/2019 16:31,fraud_Bernier and Sons,kids_pets,48.87,M,PA,Management consultant,476c1c8b1083c42378ab1e7d2bd5d0ce,0
+1/1/2019 16:32,fraud_Bode-Rempel,kids_pets,18.68,F,NH,"Optician, dispensing",52c273253d9af8988b9fe097d0ab2ad5,0
+1/1/2019 16:33,"fraud_Hermiston, Russel and Price",food_dining,51.36,F,NC,Chief Strategy Officer,7bad4a7f885b6ee17161e58d3197cced,0
+1/1/2019 16:33,fraud_Schuppe-Schuppe,food_dining,61.27,M,CA,Marketing executive,ad977aa6040309df99a46b3465fa6c16,0
+1/1/2019 16:34,fraud_Hyatt-Blick,travel,8.5,M,KS,Theatre director,7a59f4576d71899f8f1382b6a72c07b1,0
+1/1/2019 16:34,fraud_Jewess LLC,shopping_pos,1.22,F,CA,"Therapist, horticultural",69bc46dc47a88dbf98c0a1a40387f91f,0
+1/1/2019 16:34,"fraud_Schiller, Blanda and Johnson",home,49.92,F,WY,Educational psychologist,56ac3225fcd5e39df0ab2c8baa40b277,0
+1/1/2019 16:34,"fraud_Bins, Balistreri and Beatty",shopping_pos,187.26,F,NJ,Senior tax professional/tax inspector,9f0e65e83950cf6b4ea8f47d98ef9d1a,0
+1/1/2019 16:34,fraud_Carroll PLC,health_fitness,28.19,M,LA,Biomedical scientist,6da44e01eb880f7b0d692e05ef393a16,0
+1/1/2019 16:34,fraud_Lemke and Sons,travel,8.29,F,AL,Ceramics designer,40b6c6556c2e742d257a8898d722e818,0
+1/1/2019 16:35,fraud_Stark-Koss,home,12.28,M,FL,Exercise physiologist,5650d2aa28a95def319493fd2efad875,0
+1/1/2019 16:35,fraud_Schoen-Quigley,kids_pets,17.85,F,NY,Comptroller,b45c1c871162b1b82726eaa005eec299,0
+1/1/2019 16:35,fraud_Kub PLC,personal_care,3.52,M,OK,Media buyer,92f38ad6b8a8f932ea28b455ae7fabe4,0
+1/1/2019 16:35,fraud_Treutel-King,travel,456.68,M,WY,"Administrator, local government",899fd5b8df85eef2c5fb022958703f02,0
+1/1/2019 16:36,"fraud_Walter, Hettinger and Kessler",personal_care,82.91,M,TN,Clothing/textile technologist,cb5accb474ed68344dedb216c1997680,0
+1/1/2019 16:37,"fraud_Runolfsdottir, Mueller and Hand",entertainment,14.94,F,IL,Landscape architect,0f899673463f6bf23ce3b98148aa2699,0
+1/1/2019 16:37,fraud_Stamm-Rodriguez,misc_pos,267.29,F,PA,Energy manager,3b2996f5b5833d0d46637dfff4cdb2a2,0
+1/1/2019 16:37,fraud_Fadel-Hilpert,health_fitness,79.25,F,NE,"Engineer, automotive",1b73146443084b5b63bea2b43404c8ea,0
+1/1/2019 16:37,fraud_Altenwerth-Kilback,home,47.56,M,MI,General practice doctor,28f0f4fc75ced1a79715366c93144038,0
+1/1/2019 16:37,fraud_Renner Ltd,home,18.25,M,KY,Surgeon,dc5ae05e3534604eb1296b5bd0f80001,0
+1/1/2019 16:37,fraud_Feil-Morar,health_fitness,171.36,M,OH,"Copywriter, advertising",cf787bd826eca6a40c6265b8981bcb44,0
+1/1/2019 16:37,fraud_Waelchi Inc,kids_pets,22.46,M,KS,Theatre director,c5539faa3a1b3f44a3ca5ad63e0cd990,0
+1/1/2019 16:37,fraud_Schmeler Inc,misc_pos,1.92,M,MD,Art therapist,4f8c049e869dc6026501e0dc43b34e5a,0
+1/1/2019 16:37,fraud_Torphy-Goyette,shopping_pos,7.27,F,MD,Regulatory affairs officer,507699b904a4a996e4daf97cc72051c5,0
+1/1/2019 16:38,fraud_Padberg-Sauer,home,59.22,F,CA,Airline pilot,6e0303af2aa3dd5fade680d84da27bb6,0
+1/1/2019 16:39,fraud_Kutch-Ferry,home,4.29,M,FL,Town planner,c89a6ba5bba09e3ca1d3ea0ba093c10d,0
+1/1/2019 16:39,"fraud_Kutch, Steuber and Gerhold",food_dining,51.7,M,TX,"Pharmacist, community",7249b5199960cc7f1434487fd131a374,0
+1/1/2019 16:40,fraud_Runte-Mohr,food_dining,11.64,M,MD,Art therapist,695e55692db13504a470672294fa5ae4,0
+1/1/2019 16:41,fraud_Schuppe LLC,entertainment,85.85,F,IA,Camera operator,82301dbf95bb75dc132bd8b8bbc15424,0
+1/1/2019 16:42,fraud_Rolfson-Kunde,personal_care,51.99,M,MS,"Therapist, occupational",c2a0d33e692b81a95b63ffec3454705e,0
+1/1/2019 16:43,fraud_Beer-Jast,kids_pets,8.51,M,CT,Health service manager,a0e168147eebe7a797553669288f8bac,0
+1/1/2019 16:44,fraud_Medhurst Inc,home,10.56,M,OK,Fitness centre manager,a3c4bb35f7ad29bb19429af1fab4195e,0
+1/1/2019 16:44,fraud_Bogisich-Homenick,misc_net,7.3,F,MN,"Lecturer, further education",1e4466d1c174b068c592f23cff67c65e,0
+1/1/2019 16:45,"fraud_Schiller, Blanda and Johnson",home,10.22,F,IL,Race relations officer,0d8d67a997dd659a3c8b7178db86267c,0
+1/1/2019 16:46,fraud_Cormier LLC,health_fitness,45.2,F,NY,Film/video editor,f0fe0dfd1d364221ae2a0b1afded875a,0
+1/1/2019 16:47,fraud_Bernier and Sons,kids_pets,97.96,M,MO,Television floor manager,a7c6bd71ba9e2038ef2afcab2d3bfc9a,0
+1/1/2019 16:49,fraud_White and Sons,home,51,F,NC,Toxicologist,43e0d689e3f856a4c85e6e16e9e70375,0
+1/1/2019 16:49,"fraud_Watsica, Haag and Considine",shopping_pos,8.41,F,MN,"Scientist, audiological",6436d95f8f7f366d64640895b0e1c6a4,0
+1/1/2019 16:49,fraud_Fritsch and Sons,health_fitness,69.41,F,CT,Comptroller,84a7b04c7647e5cea172d92ba2970f78,0
+1/1/2019 16:50,"fraud_Konopelski, Schneider and Hartmann",food_dining,94.33,F,OK,Barrister,c7f5c8e8e3e9709d98c2573553a9f3ef,0
+1/1/2019 16:50,fraud_Jast Ltd,shopping_net,88.69,F,CA,Civil Service fast streamer,517bbd506df8515bfde0af5a2bc4d827,0
+1/1/2019 16:51,fraud_Kulas Group,health_fitness,21.41,F,KY,Advertising account executive,47648858a12536e0475b3900f95ac353,0
+1/1/2019 16:51,fraud_Dickinson Ltd,personal_care,34.71,F,KS,Chief Executive Officer,fc53dae0cf2c9931a1f624d3d63d01a2,0
+1/1/2019 16:52,fraud_Bauch-Blanda,entertainment,43.08,F,AZ,Counselling psychologist,69d6f735577db17b34204f41129aa20c,0
+1/1/2019 16:52,fraud_Hermann and Sons,shopping_pos,8.67,F,NE,"Engineer, automotive",e9d4e1c3379a39dfa1cd55e8e07ad2f9,0
+1/1/2019 16:52,"fraud_Roberts, Daniel and Macejkovic",kids_pets,55.07,M,SD,Volunteer coordinator,d9514bcb39d1ed1eca9ee8aefe3449f8,0
+1/1/2019 16:52,"fraud_Nicolas, Hills and McGlynn",entertainment,31.86,M,AK,"Administrator, education",c730db7af4201581d8f0dd3d28b2a12a,0
+1/1/2019 16:53,"fraud_Pouros, Walker and Spencer",kids_pets,58.8,M,CA,Barista,7c41dec270008662553ffc24bbf6afa7,0
+1/1/2019 16:53,fraud_Ruecker-Mayert,kids_pets,114.79,F,NC,"Psychologist, counselling",fadb4dafef079a1a0381360bbe80b3c0,0
+1/1/2019 16:53,"fraud_Wiza, Schaden and Stark",misc_pos,12.17,M,AL,Musician,a3d8888e496bc6a54f4657806efc5e2c,0
+1/1/2019 16:53,"fraud_Hintz, Bauch and Smith",health_fitness,2.69,F,MI,Learning disability nurse,2717609edce5db769a8307feddcd190d,0
+1/1/2019 16:54,fraud_Schimmel-Olson,kids_pets,48.3,M,IL,Exhibition designer,a7535dc8bab1da51fb843d1f96ee9ebf,0
+1/1/2019 16:54,fraud_Sporer-Keebler,personal_care,2.38,M,NM,Public relations account executive,c978732b9663a0b9411430e2ab60eb4e,0
+1/1/2019 16:54,fraud_Hirthe-Beier,health_fitness,21.88,M,MI,"Doctor, hospital",a4a2139a4a114917679314ca15e9a1e3,0
+1/1/2019 16:55,"fraud_Streich, Rolfson and Wilderman",kids_pets,31.7,M,PA,General practice doctor,e1aa852b2536eba35207b9bacd2b447b,0
+1/1/2019 16:56,fraud_Wisozk and Sons,misc_pos,5.51,M,MT,"Engineer, drilling",d182b8d481296dccaf13e4735107ac81,0
+1/1/2019 16:57,fraud_Abshire PLC,entertainment,6.95,M,IA,Probation officer,08966fe6bc1f8f48d0ebfce5ee02f472,0
+1/1/2019 16:58,fraud_Streich Ltd,home,36.53,M,AR,Financial adviser,a99d24ea197c663c7a14189dc8370154,0
+1/1/2019 16:59,"fraud_Wiza, Schaden and Stark",misc_pos,2.18,F,CT,Herpetologist,69be620089b57196f6ef5864866a0541,0
+1/1/2019 16:59,"fraud_Hagenes, Kohler and Hoppe",food_dining,181.55,F,MI,Trade mark attorney,dac097e74867e6e05915932ff0f63cee,0
+1/1/2019 16:59,fraud_Schoen Ltd,kids_pets,32.15,F,GA,"Teacher, special educational needs",2d64cc6600934dd609e886b538563618,0
+1/1/2019 16:59,fraud_Medhurst Inc,home,28.52,M,IA,Community pharmacist,8f63eadcc0448e4d7d6ebc31eeb08c07,0
+1/1/2019 17:00,fraud_Baumbach Ltd,personal_care,11.74,F,KS,Textile designer,4a51fbd436f4084b620a434592555ea9,0
+1/1/2019 17:00,fraud_Bahringer-Streich,food_dining,3.85,M,IL,Commercial/residential surveyor,257a9dda29d7f12afdb3247a08b37c49,0
+1/1/2019 17:00,fraud_Deckow-Dare,food_dining,1.68,M,NY,"Therapist, drama",2c32a8f2eea4e086611af71a27d46de4,0
+1/1/2019 17:00,fraud_Ratke and Sons,health_fitness,87.81,M,LA,Biomedical scientist,7590d0022abf52e78836c83223e65f18,0
+1/1/2019 17:01,"fraud_Schumm, McLaughlin and Carter",food_dining,4.57,F,MD,Insurance underwriter,f9bce822d8a855f322e37ef790746442,0
+1/1/2019 17:03,fraud_Windler LLC,kids_pets,1.88,F,VA,Energy engineer,a2041694ed2372fd32e3ca1f2b04b2c9,0
+1/1/2019 17:03,fraud_Nolan-Williamson,kids_pets,62,F,NY,"Pharmacist, hospital",5bb0a710afdedf0f3a9151a5997db5ca,0
+1/1/2019 17:03,fraud_Medhurst Inc,home,96.15,F,VA,Chief Operating Officer,a3416bcf4df04db7ef53fdaf27ec614b,0
+1/1/2019 17:03,fraud_Kerluke-Abshire,shopping_net,9.17,F,TX,"Copywriter, advertising",4bd3ac994c8b20102ecb1e91fee45ac5,0
+1/1/2019 17:03,fraud_Kutch-Wilderman,home,41.11,M,AL,Musician,92c98418cf1a7d406f945716718c13a1,0
+1/1/2019 17:03,fraud_Schulist Ltd,food_dining,50.61,F,CO,Water engineer,2a4e5fc7d8cc6665d11de2dfc2a0541d,0
+1/1/2019 17:04,fraud_Roob-Okuneva,health_fitness,71.24,M,AR,"Designer, ceramics/pottery",08eab821f0f55e0390fcd82ade085e84,0
+1/1/2019 17:05,"fraud_Lakin, Ferry and Beatty",food_dining,49.27,F,MS,Fine artist,6dd5ef7862e36b9f75eb83af76360780,0
+1/1/2019 17:05,fraud_Lubowitz-Walter,kids_pets,39.64,M,CA,Firefighter,f3870d607e888d38a79ef952b28e676b,0
+1/1/2019 17:05,fraud_Bednar PLC,kids_pets,89.61,M,ME,Audiological scientist,1887c447c6d598e2559e1b1f3f35d5f4,0
+1/1/2019 17:06,fraud_Gottlieb Group,kids_pets,166.8,F,FL,Primary school teacher,415e39baad9608d29025e28ed99dda98,0
+1/1/2019 17:07,"fraud_Okuneva, Schneider and Rau",shopping_pos,2.09,F,MI,Geophysicist/field seismologist,6347bb40335685c0ad5c50a910eb5f67,0
+1/1/2019 17:07,fraud_Mayert Group,shopping_pos,1.6,M,NH,Surgeon,ca616866327d023cde41946234d1c846,0
+1/1/2019 17:07,fraud_Cartwright PLC,kids_pets,38.77,M,MD,Press photographer,d3a909b40d256a432399d782c43f82e4,0
+1/1/2019 17:08,"fraud_Schroeder, Wolff and Hermiston",travel,1.23,M,MI,"Engineer, automotive",78bda8e1a6fd1a1f7ff94cd17eceb6dd,0
+1/1/2019 17:08,"fraud_Koss, Hansen and Lueilwitz",home,33.14,F,FL,Paramedic,8470906ba0dc4e9db9724f55e1e006e4,0
+1/1/2019 17:08,fraud_Harris Group,food_dining,62.19,M,OH,Accounting technician,ca58398faecfcf87de32eebc83ab4fd3,0
+1/1/2019 17:10,fraud_Fritsch LLC,travel,8.06,M,MN,Music tutor,9c8108f1b4bbb5cdb365eb61986d33be,0
+1/1/2019 17:10,"fraud_Baumbach, Strosin and Nicolas",shopping_pos,9.98,F,IL,"Scientist, research (physical sciences)",0beee982b2cfd98e60acc8a46312c844,0
+1/1/2019 17:11,"fraud_Cormier, Stracke and Thiel",entertainment,71.49,M,CA,Early years teacher,2e26571c287b04eb6213c46d2b5cf66f,0
+1/1/2019 17:12,fraud_Corwin-Romaguera,travel,1.99,M,NH,Surgeon,fcf060577eea8d878ecf69527e8f2dbb,0
+1/1/2019 17:13,fraud_Dietrich-Fadel,health_fitness,12.58,M,CA,Learning mentor,9ae33b40ae4f639711276a6bdfead0d0,0
+1/1/2019 17:14,"fraud_Haley, Jewess and Bechtelar",shopping_pos,8.7,M,VA,"Scientist, biomedical",b62b3d7920575944cc5c8182118692ce,0
+1/1/2019 17:14,fraud_Abbott-Steuber,personal_care,8.84,F,CT,Comptroller,6f51efaef1d8e05c3d2d961de13686c0,0
+1/1/2019 17:14,"fraud_Kling, Howe and Schneider",home,36.07,M,TX,"Librarian, public",4a36e33771c09dbf34a851c8c455ae4f,0
+1/1/2019 17:15,"fraud_Baumbach, Strosin and Nicolas",shopping_pos,9.83,M,MD,Paediatric nurse,c2c6ba3b07a2cd8ef0dc27e444be6b9e,0
+1/1/2019 17:16,fraud_Kozey-Kuhlman,personal_care,17.69,F,NY,Pensions consultant,f913f178b848eff06765fa20a694c296,0
+1/1/2019 17:16,fraud_Waelchi-Wolf,kids_pets,120.8,F,TX,"Scientist, biomedical",cc4052b5536ad301eb62adfb67b9b81e,0
+1/1/2019 17:16,fraud_Conroy Ltd,shopping_pos,8.66,M,NY,Further education lecturer,cb8cd75b0d6c3bf7dc49c52e7a7b0f86,0
+1/1/2019 17:17,"fraud_Windler, Goodwin and Kovacek",home,238.29,F,PA,"Administrator, charities/voluntary organisations",dc2ebc70888063d67b849ef4bb0e518c,0
+1/1/2019 17:19,fraud_Will Ltd,food_dining,9.41,M,NE,Chiropodist,8cdbb05fa050e95e42fb07d940810004,0
+1/1/2019 17:19,fraud_Maggio-Fahey,misc_pos,4.08,F,NY,IT trainer,848597a840aec719c061f937a5ca5240,0
+1/1/2019 17:19,fraud_Cormier LLC,health_fitness,24.75,M,NY,Cytogeneticist,c0f15b875f51c5a875f2a19fb036fe70,0
+1/1/2019 17:20,fraud_Hudson-Grady,shopping_pos,9.07,F,WA,Special educational needs teacher,1f9810e19a2bce00d0c763f3388e4d2b,0
+1/1/2019 17:21,fraud_Berge-Hills,kids_pets,66.94,M,KS,Product/process development scientist,b95d6909080cb222b639ed16b206efaa,0
+1/1/2019 17:21,"fraud_Hintz, Bauch and Smith",health_fitness,97.63,M,TX,Video editor,167fda5388ad2c37bf5a3c90c53e8a41,0
+1/1/2019 17:22,fraud_Kautzer and Sons,personal_care,1.91,F,CA,"Therapist, music",2187595c8884e8a2e6b43ff3d0ee86ab,0
+1/1/2019 17:22,fraud_Breitenberg-Hermiston,kids_pets,321.89,F,MI,Learning disability nurse,7468d01bb8d874a14ded653434270a66,0
+1/1/2019 17:22,fraud_Graham and Sons,health_fitness,11.04,M,IL,"Psychologist, clinical",0880a14157195602df910aaad0b98fce,0
+1/1/2019 17:22,fraud_Berge-Hills,kids_pets,51.55,M,NE,"Solicitor, Scotland",4f506167cd2e3ad0c8454a5d8ece9d81,0
+1/1/2019 17:22,fraud_Jacobi and Sons,shopping_pos,8.28,M,AL,Curator,0c9cfacb7a7056b5c6814c601ece53b7,0
+1/1/2019 17:23,"fraud_Bradtke, Torp and Bahringer",personal_care,16.13,F,FL,Environmental consultant,89a7a11c175c1ad2511d043d4727f6f5,0
+1/1/2019 17:24,fraud_Jakubowski Inc,home,24.95,M,FL,"Programme researcher, broadcasting/film/video",3c3a5994d759fbfaa53bc0b479d033f8,0
+1/1/2019 17:25,fraud_Kuhn LLC,misc_net,1.06,F,GA,"Teacher, special educational needs",ebd0f770a7fa794acd673c92648ffc11,0
+1/1/2019 17:27,"fraud_Reichert, Huels and Hoppe",shopping_net,6.29,F,NY,Comptroller,b5544b4ab007e9f373852f6205900b81,0
+1/1/2019 17:29,fraud_Brown PLC,misc_net,159.43,F,TX,Financial adviser,ef0cc4f040df3ef06e3b8811f7b2ab51,0
+1/1/2019 17:30,"fraud_Eichmann, Hayes and Treutel",travel,413.17,M,PA,Dealer,fa79f1028806f72187aced5c7c56f2f1,0
+1/1/2019 17:30,fraud_White and Sons,home,32.38,F,WV,Physiotherapist,c37f58bb3eaf509930f31adedf849f91,0
+1/1/2019 17:30,fraud_Gulgowski LLC,home,81.25,M,OH,Exhibition designer,fc90511abf756c12f6a0a214c21a42c2,0
+1/1/2019 17:30,fraud_Wilkinson PLC,kids_pets,84.11,M,VA,"Designer, ceramics/pottery",0f3220413497420bf47c0080cbd2da54,0
+1/1/2019 17:31,fraud_Emmerich-Rau,personal_care,42.26,F,OH,Press photographer,0f17fe36e0663acb011b6d21e7de2240,0
+1/1/2019 17:32,"fraud_Cronin, Kshlerin and Weber",health_fitness,53.32,F,MI,"Exhibitions officer, museum/gallery",1f58f90aa5eb9c06f066da77aaea5821,0
+1/1/2019 17:32,fraud_Hickle Group,shopping_pos,2.7,F,TX,IT trainer,0a6c19fe3bdcd30d176c2c475791d16e,0
+1/1/2019 17:33,fraud_Greenholt Ltd,health_fitness,72.97,M,WY,Freight forwarder,f4f90905d5b1c6d277af7cf5b7db3341,0
+1/1/2019 17:33,"fraud_Brown, Homenick and Lesch",health_fitness,18.4,M,CA,Soil scientist,f53b46ebb3ddc9dca3958849e3b6dc83,0
+1/1/2019 17:34,"fraud_Roberts, Ryan and Smith",personal_care,8.83,F,IL,Landscape architect,ca609ddd2d0baed701610cc2a7d7e572,0
+1/1/2019 17:35,fraud_Boyer-Reichert,shopping_net,2.19,M,WI,Child psychotherapist,3eb6b0946350598e62f6bf37c07a886e,0
+1/1/2019 17:35,fraud_Gerhold LLC,home,8.07,F,VT,"Scientist, marine",cee417aeb84e8bb1a1c18e694c276549,0
+1/1/2019 17:36,fraud_Wisozk and Sons,misc_pos,7.01,M,WV,Exhibition designer,65db39f2f54c981f3e848876533b3180,0
+1/1/2019 17:36,fraud_Rolfson-Kunde,personal_care,221.13,M,GA,Field seismologist,880250de8540c5ff95d1a177a075b434,0
+1/1/2019 17:37,fraud_Stiedemann Ltd,food_dining,25.98,M,FL,"Engineer, land",15489b7da0bf1efebb70a6921f8a5973,0
+1/1/2019 17:37,fraud_Gaylord-Powlowski,home,141,F,NM,"Surveyor, land/geomatics",0121469deb055debc9ef94dbab4e089d,0
+1/1/2019 17:38,fraud_Kutch-Ferry,home,77.97,M,OH,Exhibition designer,342b79d917902dc964129cce67f2fe70,0
+1/1/2019 17:39,fraud_Morissette LLC,entertainment,49.15,M,MI,Police officer,b6fada9b825fdaffa136e1acffc63533,0
+1/1/2019 17:39,fraud_Labadie LLC,personal_care,30.42,F,MS,Fine artist,aa775e700cbf5ff54929f1165dd43647,0
+1/1/2019 17:40,fraud_Erdman-Schaden,personal_care,1.16,F,KS,Secondary school teacher,2da6478ff60a9e369eef2c0047d7964b,0
+1/1/2019 17:40,fraud_Reilly LLC,home,300.25,M,IL,Commercial/residential surveyor,9f4df586e5329c0432a374935c8e2654,0
+1/1/2019 17:41,"fraud_Lubowitz, Terry and Stracke",personal_care,37.56,M,NM,Historic buildings inspector/conservation officer,b3b2fabffb1c0619fc7b445a6e89454e,0
+1/1/2019 17:41,fraud_Emmerich-Rau,personal_care,30.78,F,MO,Electronics engineer,897b5dffb2a0f5d3a15af787ec1bad36,0
+1/1/2019 17:41,"fraud_Dare, Fritsch and Zboncak",health_fitness,78.27,F,SC,Social researcher,1bfcd21941e35d58fa8868e5ef5e7377,0
+1/1/2019 17:41,"fraud_Cronin, Kshlerin and Weber",health_fitness,75.78,F,NY,Race relations officer,545fbe5a6a4234b2bd413da23a7efa39,0
+1/1/2019 17:41,"fraud_Gutmann, McLaughlin and Wiza",home,58.85,F,AR,"Programmer, applications",2087447a70f6712c41931f5f71bfce5f,0
+1/1/2019 17:42,fraud_Jast Ltd,shopping_net,7.42,F,VT,Claims inspector/assessor,bfa42fdccf6d5854e600fdef83ff084d,0
+1/1/2019 17:42,fraud_Ankunding LLC,shopping_net,2.03,F,VA,Chartered accountant,93938fc3061783ad5a974638d80150f5,0
+1/1/2019 17:42,fraud_White and Sons,home,18.1,F,KY,"Development worker, international aid",1afae3f599838fb3a721c3e46f0afcb3,0
+1/1/2019 17:43,"fraud_Schroeder, Hauck and Treutel",entertainment,27.4,F,OK,Occupational psychologist,ec2b12bad841ea74e231a7cbfdb1e772,0
+1/1/2019 17:44,fraud_Harris Group,food_dining,20.2,F,CO,Water engineer,f3f49a5e1d5a91f59be451809960dbbe,0
+1/1/2019 17:44,"fraud_Mante, Luettgen and Hackett",health_fitness,95.73,M,KY,Facilities manager,71d9ec1efe82b64f4c07c5f9368d1b97,0
+1/1/2019 17:45,fraud_Powlowski-Weimann,food_dining,80.77,F,AZ,Petroleum engineer,86e29c02ce75acdf6b26f810aaaf5376,0
+1/1/2019 17:45,fraud_Weber and Sons,food_dining,58.91,F,LA,"Designer, furniture",4d207c9d569023db47ce871cb94fcc6d,0
+1/1/2019 17:46,fraud_Pollich LLC,home,88.29,M,NJ,Insurance risk surveyor,00e750b7d15ccf45c940a31821d3c3f6,0
+1/1/2019 17:46,"fraud_Yost, Schamberger and Windler",kids_pets,4.19,M,NY,Building surveyor,582796be9ff1b4837f1a7fe12094f868,0
+1/1/2019 17:47,"fraud_Gottlieb, Considine and Schultz",shopping_net,214.84,F,OH,Medical sales representative,a30ec720322450014ffd78489f2ba85d,0
+1/1/2019 17:47,"fraud_Kuhic, Bins and Pfeffer",shopping_net,155.81,F,WY,Music therapist,4f6ce86297522ef4e5af5421de0b2045,0
+1/1/2019 17:47,"fraud_Durgan, Gislason and Spencer",home,22.67,M,NC,Retail buyer,6f7dd9c6b0c9448d112cdb903fa4fcd0,0
+1/1/2019 17:48,fraud_Carroll PLC,health_fitness,75.21,M,PA,Dealer,1e4a9b51eb23d11437bbcea53b6b6a7f,0
+1/1/2019 17:48,"fraud_Ruecker, Beer and Collier",shopping_net,4.73,F,VT,"Scientist, marine",339d4bdd5ade82d962ed9b3cd2d2cbd4,0
+1/1/2019 17:49,fraud_Schulist Ltd,food_dining,3.11,F,MO,Production manager,ca3db4521c49df828f6d480b48f5aee4,0
+1/1/2019 17:49,fraud_Watsica LLC,personal_care,69.36,M,VT,"Development worker, community",f45bd0b7b805b2bbae7ba7fbfe42862d,0
+1/1/2019 17:50,fraud_Friesen-Ortiz,personal_care,45.24,F,TX,Systems developer,25f937c1e54bb8080f59d2395e681bc9,0
+1/1/2019 17:50,fraud_Treutel-King,travel,3.26,M,WV,Accounting technician,3d1011ba23290cada98588a659373ba1,0
+1/1/2019 17:51,fraud_Waters-Cruickshank,health_fitness,64.24,F,IA,Sports administrator,7e38c9e56bfddf56a0f98268d35126d0,0
+1/1/2019 17:51,"fraud_Hauck, Dietrich and Funk",kids_pets,67.01,F,NY,Colour technologist,81211d5c1fbe4d801d1ed3360d650748,0
+1/1/2019 17:51,fraud_Hilpert-Conroy,kids_pets,25.67,M,IL,Trade mark attorney,708f592b88e3e0e94e98c3d5a3dc7391,0
+1/1/2019 17:53,fraud_Waelchi-Wolf,kids_pets,44.37,M,MI,Chief Financial Officer,0fabd840d9da23d73e6e78537c3bde4b,0
+1/1/2019 17:54,fraud_Dach-Nader,misc_net,103.21,F,NJ,"Engineer, control and instrumentation",68cb7d9ba2a098cddf90060ace026293,0
+1/1/2019 17:55,fraud_Schoen Ltd,kids_pets,23.21,M,WV,Special effects artist,fbfe3a09155272a04c04eec36e28ee86,0
+1/1/2019 17:55,"fraud_Roberts, Daniel and Macejkovic",kids_pets,66.02,F,NY,Records manager,ac75f419ab0f0fa68fd8aac151a266ad,0
+1/1/2019 17:55,fraud_Jacobi Inc,health_fitness,18.11,F,AR,Pharmacologist,08b975b12c4ba4cb7146d83740c842df,0
+1/1/2019 17:55,fraud_Morissette-Schaefer,personal_care,149.54,F,TX,Sports development officer,62852fbef3e12bb68d605a77be4c0cab,0
+1/1/2019 17:55,"fraud_Nienow, Ankunding and Collier",misc_pos,99.24,M,FL,"Engineer, land",27d32465b19f847e835654f47e5ac40a,0
+1/1/2019 17:56,"fraud_Haley, Batz and Auer",health_fitness,76.59,M,MN,Horticultural therapist,d4419857653a4aacfb633442d87dc745,0
+1/1/2019 17:58,fraud_Altenwerth-Kilback,home,13.48,M,NJ,"Programmer, multimedia",ebd27a99b380810ac953f0343d059383,0
+1/1/2019 18:00,fraud_Greenholt Ltd,health_fitness,97.04,F,IA,Camera operator,a287328e4834f5028e7c39a4e7e599bd,0
+1/1/2019 18:00,"fraud_Welch, Rath and Koepp",entertainment,117.26,F,VA,Chartered accountant,117fad5e376b6b3226e46289381bba17,0
+1/1/2019 18:00,fraud_Schaefer Ltd,kids_pets,53.95,F,MA,Counselling psychologist,1af6d39a95e3d6fca6027b6b574d369c,0
+1/1/2019 18:00,fraud_Fisher Inc,shopping_net,4.3,M,NM,IT consultant,33544c28f1569c086e3b275231a3dd0c,0
+1/1/2019 18:01,fraud_Hammes-Beatty,kids_pets,7.14,F,IN,"Psychologist, forensic",aa99f167a4ab53deb6bb51caff5aabdf,0
+1/1/2019 18:01,fraud_Baumbach Ltd,personal_care,1.94,F,NE,Telecommunications researcher,2b7449b471722a9682beb520e68ddc09,0
+1/1/2019 18:01,fraud_Altenwerth-Kilback,home,86.44,M,WI,Television/film/video producer,d1693c2a9b77a1128861a4c4fd5714de,0
+1/1/2019 18:01,fraud_Kilback Group,food_dining,5.15,F,OH,Insurance underwriter,fa9d8367db70711d88c75506b106372c,0
+1/1/2019 18:02,"fraud_Witting, Beer and Ernser",home,153.04,F,CA,Occupational psychologist,66ea77705b55da16f4d9fddd7737c0b1,0
+1/1/2019 18:03,"fraud_Cole, Hills and Jewess",home,57.61,M,CA,Immigration officer,63ad9e3abcc405f17f5f4e7c0b699410,0
+1/1/2019 18:04,fraud_Lubowitz-Walter,kids_pets,37.06,M,HI,Physiotherapist,834e9e38ac4276890eb7df8446d7d6ff,0
+1/1/2019 18:05,"fraud_Witting, Beer and Ernser",home,22.9,F,OR,"Engineer, biomedical",d011f4f25d032cc5c3be5a02ed08eee1,0
+1/1/2019 18:05,fraud_Powlowski-Weimann,food_dining,137.32,F,IL,"Presenter, broadcasting",73c0131d8f112e67ae65ac4b63fba160,0
+1/1/2019 18:06,fraud_Pollich LLC,home,74.94,F,AL,Materials engineer,bcf9d7a247182df8189370f65937c18a,0
+1/1/2019 18:06,fraud_Howe Ltd,misc_pos,45.85,F,VA,Chief Operating Officer,060d46d7df6e7b6f4f137a755615ceff,0
+1/1/2019 18:06,fraud_Carroll PLC,health_fitness,12.7,M,FL,"Engineer, land",923fafc7c1f476eab2adbc0423cd62dc,0
+1/1/2019 18:08,fraud_Thiel PLC,misc_pos,6.85,F,VT,Claims inspector/assessor,e5fbf3c0a08be6ab98a7b3737cb274d0,0
+1/1/2019 18:09,"fraud_Hagenes, Kohler and Hoppe",food_dining,69.99,M,IN,Retail banker,07c865cb852b9ff22e869fee104117c2,0
+1/1/2019 18:09,fraud_Abbott-Rogahn,entertainment,33.4,F,FL,Paramedic,525cb6be5e9fa5d6893da177096dfefd,0
+1/1/2019 18:10,"fraud_Roberts, Daniel and Macejkovic",kids_pets,97.2,F,MO,Naval architect,ec453bb870cb4d74ad9b9d39d4183e3c,0
+1/1/2019 18:11,"fraud_Conroy, Balistreri and Gorczany",health_fitness,74.4,M,OH,Exhibition designer,4c246a02ed0ffbdf844b5004840b9d4a,0
+1/1/2019 18:11,"fraud_Reichel, Bradtke and Blanda",travel,7.58,M,NC,Retail buyer,e6e5a4dff0bf1196251870ebc5409979,0
+1/1/2019 18:11,"fraud_O'Reilly, Mohr and Purdy",home,76.36,M,PA,Dealer,7e661c5c124bb273a3e77062a09127e7,0
+1/1/2019 18:12,fraud_Greenholt Ltd,health_fitness,25.59,M,IN,Retail banker,836905db68c941438c323408bd1b27bf,0
+1/1/2019 18:13,fraud_Berge-Hills,kids_pets,42.08,M,GA,Rural practice surveyor,1ec8d1648f2b8f0ff632564aa6b7cba1,0
+1/1/2019 18:14,fraud_Ullrich Ltd,kids_pets,81.07,F,KY,"Therapist, sports",55fd928057b7517be0e28caaae3918eb,0
+1/1/2019 18:14,"fraud_Witting, Beer and Ernser",home,13.59,F,WY,Public librarian,a255d49905aa0c6fbfecfcedf3ec92a9,0
+1/1/2019 18:14,"fraud_Denesik, Powlowski and Pouros",home,2.32,F,TX,Drilling engineer,09e4142b72cc5b4505e6e5b624a829e2,0
+1/1/2019 18:14,fraud_Kessler Inc,travel,461.28,M,MO,Tourist information centre manager,b0c876de8b09c9879fe1c61d7495a02e,0
+1/1/2019 18:14,fraud_Heller PLC,health_fitness,14.64,F,NY,"Producer, radio",5a47af80e9a76e2d95e452a6b5547e8d,0
+1/1/2019 18:15,fraud_Schroeder Group,health_fitness,38.46,F,IL,Materials engineer,8449f2e1be2c2f712224312ed2b33e2c,0
+1/1/2019 18:15,fraud_Ernser-Feest,home,23.05,M,PA,Event organiser,f3fb768cd75eb13e327a48e6f7514fe7,0
+1/1/2019 18:17,fraud_Metz-Boehm,shopping_pos,12.31,F,TX,Sub,a44338b0f5124ee53520a878dd35991c,0
+1/1/2019 18:18,"fraud_Hoppe, Harris and Bednar",entertainment,74.91,M,MN,Horticultural therapist,611e97f9f8c76a901dd7b926fa76e5d0,0
+1/1/2019 18:18,fraud_Daugherty LLC,kids_pets,99.84,M,IN,Biomedical engineer,0ac0229a04022830f86ee59dbf24057c,0
+1/1/2019 18:18,fraud_Bernhard-Lesch,food_dining,44.46,M,CA,Wellsite geologist,2550b316c7c62fd80d73280f56b74566,0
+1/1/2019 18:18,fraud_Boyer-Haley,travel,4.27,F,SD,"Development worker, international aid",ca36af9c5363d6e66b914efd595b87bd,0
+1/1/2019 18:19,fraud_Schmidt-Larkin,home,43.58,F,MO,Electronics engineer,df56a9838d886325a589935476075447,0
+1/1/2019 18:19,"fraud_Crist, Jakubowski and Littel",home,107.64,M,NE,Television/film/video producer,0134e6a797bcf8c07b28647ad33fd53a,0
+1/1/2019 18:19,fraud_Kuhic LLC,shopping_net,3.25,F,KS,Secondary school teacher,e16da247215a399762f5216d367157ad,0
+1/1/2019 18:20,fraud_Gleason and Sons,kids_pets,28.67,F,MN,Barrister,8732fa6a5340cc1ce587fc6079896148,0
+1/1/2019 18:20,"fraud_Hettinger, McCullough and Fay",home,53.3,F,CT,Comptroller,6fa8e381e9405bfd1ae5f9fb098e4c14,0
+1/1/2019 18:20,fraud_Fisher Inc,shopping_net,1.92,F,CA,Podiatrist,af5011d8e7cb6cc9c9bef96a9ad83195,0
+1/1/2019 18:21,fraud_Turner and Sons,shopping_pos,137.93,M,PA,Gaffer,6382c0c4e02f87800090b03eca85a044,0
+1/1/2019 18:21,"fraud_Welch, Rath and Koepp",entertainment,30.22,F,WY,Educational psychologist,fbe5c5c2784841f1103629883158df3e,0
+1/1/2019 18:22,"fraud_Dare, Casper and Bartoletti",kids_pets,56.44,F,AR,Hydrologist,86abc245aab5f6cc12c0387b7c230e1e,0
+1/1/2019 18:22,fraud_Champlin-Casper,home,200.48,M,NJ,"Radiographer, diagnostic",8a7f23b4e11fb0145f0d068a59151c9f,0
+1/1/2019 18:22,"fraud_Schiller, Blanda and Johnson",home,7.57,F,IA,"Scientist, audiological",2631e48beb00cb4f8c1ce42207f147d1,0
+1/1/2019 18:23,fraud_Ruecker-Mayert,kids_pets,98.6,F,VT,Claims inspector/assessor,f46619f2370966795e8848c9462c1e47,0
+1/1/2019 18:23,fraud_Wilkinson PLC,kids_pets,32.79,F,ND,Industrial/product designer,097aa990345bf0dd42ce8e194ac9d6ed,0
+1/1/2019 18:24,fraud_Gottlieb Group,kids_pets,70.31,F,PA,Structural engineer,d0bdde0fa633e65acb754081db4d94dc,0
+1/1/2019 18:24,fraud_Emmerich-Rau,personal_care,73.84,F,SC,Research scientist (physical sciences),3e378f172304e0f284edd9d82e122f71,0
+1/1/2019 18:24,"fraud_Medhurst, Cartwright and Ebert",personal_care,77.05,M,IL,Outdoor activities/education manager,9acbbfb1e52073b598f96b60f47e180b,0
+1/1/2019 18:24,fraud_Bruen-Yost,misc_pos,6.41,M,AL,"Editor, commissioning",33a747aa49f8ab25d87d799d8b0e3bda,0
+1/1/2019 18:25,fraud_Shanahan-Lehner,personal_care,24.77,M,OK,Barrister's clerk,4ade3b23c3b155ec11a14b4a63c30082,0
+1/1/2019 18:25,"fraud_McDermott, Osinski and Morar",home,16.96,F,OR,"Engineer, maintenance",7da59354adbd6b329958cedc2ddb98d7,0
+1/1/2019 18:26,fraud_Johnston-Casper,travel,2.48,F,NY,"Producer, radio",595177ac6f59c4bd0f829ca64062681c,0
+1/1/2019 18:27,fraud_Quitzon-Goyette,home,61.05,F,SD,Hospital pharmacist,ad49f70861f9b34d3cd634ce8a4215b0,0
+1/1/2019 18:27,fraud_Kutch-Ferry,home,39.8,F,NY,"Teacher, primary school",84c3392f32067e2e68132147a8c93080,0
+1/1/2019 18:28,"fraud_Lehner, Reichert and Mills",misc_pos,11.64,M,ME,Advertising account planner,db49055d729ff0c6da94070c94c3a544,0
+1/1/2019 18:29,fraud_Homenick LLC,personal_care,109.57,F,FL,Paramedic,4ca5e0a4dc4e8213908317135a4293c9,0
+1/1/2019 18:29,fraud_Wilkinson LLC,personal_care,73.86,M,AR,Magazine features editor,5c561281be5521f63aca6771c0fede6e,0
+1/1/2019 18:30,fraud_Greenholt Ltd,health_fitness,17.66,F,VA,"Engineer, mining",c79e0e3b16cff01aacb9bf75cc894e40,0
+1/1/2019 18:30,fraud_Schroeder Group,health_fitness,89.9,F,MI,Learning disability nurse,05b7ae5684352d4e4507343b3de97350,0
+1/1/2019 18:30,fraud_Volkman-Predovic,shopping_net,8.81,F,MN,"Lecturer, further education",40025cad9fa43272590f5446f014cc6f,0
+1/1/2019 18:30,fraud_Gaylord-Powlowski,home,14.71,F,NY,Comptroller,4fbd3b517fe4f02ffa16b62be59ed40a,0
+1/1/2019 18:31,fraud_Powlowski-Weimann,food_dining,30,F,TX,"Radiographer, therapeutic",1fb3273e68cb26967329281c15bf9a50,0
+1/1/2019 18:31,fraud_Romaguera and Sons,travel,6.23,F,SC,Technical brewer,3b5d5b71b6b325efd14c7a50b76abd08,0
+1/1/2019 18:32,"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,362.86,M,NY,Further education lecturer,f1d31388585a96df3b0e0a57d43777b8,0
+1/1/2019 18:32,"fraud_Koss, Hansen and Lueilwitz",home,43.9,M,OH,Copy,5f1724661763b5bbf841184b2c627dc2,0
+1/1/2019 18:32,fraud_Wiza LLC,misc_pos,28.03,F,AR,"Engineer, control and instrumentation",9ce6f290feeb8723cfd3928de9875cdc,0
+1/1/2019 18:32,fraud_Deckow-Dare,food_dining,112.61,F,LA,"Designer, furniture",f4dbe2e0c0a74bdb9a5be96d00c79709,0
+1/1/2019 18:33,fraud_Larkin Ltd,kids_pets,48.81,M,WY,Freight forwarder,fd4bd0bfecddfaeb602bf314c09afcb2,0
+1/1/2019 18:36,"fraud_Fadel, Mertz and Rippin",entertainment,124.42,F,FL,Television production assistant,7c1f6235781fde19b5c35cb6cd7487da,0
+1/1/2019 18:37,"fraud_Lowe, Dietrich and Erdman",kids_pets,220.47,M,NY,"Biochemist, clinical",a01f36e8d27dbc62f025b2784193db15,0
+1/1/2019 18:37,fraud_Maggio-Fahey,misc_pos,3.15,F,SC,Animal technologist,6c81a3d11b9d45b81284ad8eb9182cd9,0
+1/1/2019 18:37,"fraud_Armstrong, Walter and Gottlieb",food_dining,82.57,F,IL,Building surveyor,30d044d86101704ddf62f1df1608461e,0
+1/1/2019 18:39,fraud_Huel Ltd,misc_net,100.93,M,TX,Futures trader,3b5396bad5d7031734738623abcc2839,0
+1/1/2019 18:39,fraud_Gleason-Macejkovic,shopping_net,47.79,F,CA,"Designer, exhibition/display",00d4d20cf44e5788472d6a2072ba9cc6,0
+1/1/2019 18:40,fraud_Flatley Group,misc_pos,6.77,F,SC,Social researcher,91019f7644700c09512d9a8bd31eee36,0
+1/1/2019 18:40,fraud_Thompson-Gleason,health_fitness,3.97,M,OH,Equities trader,3abc5debb2d3694715b125b2db8254af,0
+1/1/2019 18:40,"fraud_Windler, Goodwin and Kovacek",home,19.04,F,MD,Insurance underwriter,1396befa73e640038a711878a8230062,0
+1/1/2019 18:42,fraud_Hermann and Sons,shopping_pos,3.63,F,SC,Museum/gallery conservator,59bc382fa8a9ad3b2622edb4a6590867,0
+1/1/2019 18:42,fraud_Schmeler-Howe,personal_care,26.54,F,OH,"Investment banker, corporate",d1e2a884659e703b06e64b6ce700a27b,0
+1/1/2019 18:43,fraud_Zboncak Ltd,food_dining,7.08,F,OK,Research scientist (life sciences),7ddf9fc7e64bf1975ae4fc3aa7b32fef,0
+1/1/2019 18:45,"fraud_Bradtke, Torp and Bahringer",personal_care,1.68,F,OH,Medical sales representative,cad53e99d0f62b447d8d183b78e1839e,0
+1/1/2019 18:45,fraud_Pouros-Haag,shopping_pos,4.39,F,CA,Web designer,294d5ba1dad6ee093e89926ce526b2c0,0
+1/1/2019 18:45,fraud_Metz-Boehm,shopping_pos,3.89,F,KS,Secondary school teacher,d8cedb3a645bcf6bed457811f119200d,0
+1/1/2019 18:46,fraud_Fahey Inc,kids_pets,29.8,M,SC,Materials engineer,dcc2fe31a986504528a6d6516b2550b4,0
+1/1/2019 18:46,fraud_Stiedemann Ltd,food_dining,66.7,F,AZ,Contractor,5e14511c0c8d96ee1ecd207815ed681d,0
+1/1/2019 18:47,fraud_Larson-Moen,entertainment,177.71,F,CA,Podiatrist,25c7f72b9e39d74e64e95bb657356f8d,0
+1/1/2019 18:48,fraud_Pouros-Haag,shopping_pos,1.81,F,OH,Field trials officer,5d82dd8f1c8ce6e26d91bc3fa1c33e3b,0
+1/1/2019 18:48,"fraud_Pouros, Walker and Spencer",kids_pets,17.46,F,AZ,Contractor,60f80969a2237a60ace9454ee21f4409,0
+1/1/2019 18:48,fraud_Gottlieb-Hansen,personal_care,7.43,M,MI,"Social research officer, government",89775fd8f57a3dc4cf254ca810737228,0
+1/1/2019 18:50,fraud_Stark-Koss,home,19.76,M,PA,Retail merchandiser,bef5e2602e45fb42eb263bdeb4c77e6b,0
+1/1/2019 18:51,"fraud_Streich, Rolfson and Wilderman",kids_pets,41.02,F,IL,Environmental consultant,003bb7dc7b4b2d6371efaa5e0be29b3c,0
+1/1/2019 18:51,fraud_Schimmel-Olson,kids_pets,77.7,F,AL,Exercise physiologist,c216532c65ea4eab9188a9c4cd6bceb4,0
+1/1/2019 18:51,fraud_Boyer-Haley,travel,3178.51,M,AK,"Administrator, education",7083124580d6a391d678fb76b67a1ebb,0
+1/1/2019 18:51,"fraud_O'Reilly, Mohr and Purdy",home,16.71,F,IL,English as a foreign language teacher,3620b56f3e5c2f15217cf5ad2525415f,0
+1/1/2019 18:52,fraud_Cummerata-Hilpert,entertainment,61.7,M,FL,Town planner,cb26d205b07a415b4e935018c2655d46,0
+1/1/2019 18:52,"fraud_Zboncak, Rowe and Murazik",shopping_net,2.46,F,SC,Magazine features editor,ef92e6085eb9204213287270def25142,0
+1/1/2019 18:52,"fraud_Runte, Green and Emard",health_fitness,59.84,M,PA,Public relations account executive,1ea66d82feab86a6f756b4c8e7c2b6bf,0
+1/1/2019 18:52,fraud_Zemlak Group,misc_net,48.28,M,AR,Financial adviser,8d28d7befc6178589201394306f80d50,0
+1/1/2019 18:53,fraud_Kris-Padberg,shopping_pos,303.79,F,PA,Structural engineer,f657aec680e8e8e62730e74af9711ba1,0
+1/1/2019 18:53,fraud_Dickinson Ltd,misc_pos,248.54,M,TX,Video editor,7138dc6b1068f27e317d17b89c761f95,0
+1/1/2019 18:53,"fraud_Nitzsche, Kessler and Wolff",shopping_pos,218.97,M,WV,Exhibition designer,05fa949abca7d5b8fc68c9fdaf731537,0
+1/1/2019 18:54,fraud_Kulas Group,health_fitness,34.81,F,GA,"Engineer, technical sales",e4189e332641349d8bcff900d2336798,0
+1/1/2019 18:54,fraud_Schumm PLC,shopping_net,1.15,F,TX,"Designer, ceramics/pottery",3cc764095b5338160465bf9bed88d9a4,0
+1/1/2019 18:54,"fraud_Weimann, Kuhic and Beahan",shopping_pos,4.65,F,MO,Tax inspector,b3f0f4909b8f98814c7375abe382c297,0
+1/1/2019 18:56,fraud_Kub-Heaney,health_fitness,11.66,F,KY,Chief Financial Officer,d054c5ff27f3361a6a9eb2f32f3e7338,0
+1/1/2019 18:56,fraud_Bechtelar-Rippin,food_dining,2.49,F,MD,Insurance underwriter,752a803de4e43323cd5c3272a02b2c41,0
+1/1/2019 18:56,fraud_Dare-Gibson,health_fitness,6.76,M,MD,Operations geologist,f8a95633137dfadeea4af6e2456209c3,0
+1/1/2019 18:57,fraud_Breitenberg-Hermiston,kids_pets,6.21,F,KS,Secondary school teacher,8e47e621d4a7281e3c370949290cbed8,0
+1/1/2019 18:57,fraud_Ullrich Ltd,kids_pets,77.11,F,CO,Public relations account executive,7f18e190f827c0b3ca0bab22b14426c8,0
+1/1/2019 18:57,fraud_Thiel PLC,misc_pos,2.48,M,VA,"Scientist, biomedical",1d0f3504f00a5457b53dd9a9134302b3,0
+1/1/2019 18:57,fraud_Botsford PLC,home,31.55,M,MO,Private music teacher,21c0418cbf5c4bfc29ff4ff8176edfd9,0
+1/1/2019 18:58,fraud_Feil-Morar,health_fitness,56.25,M,TX,"Designer, jewellery",2b93dc183a308458c7b363f167593a08,0
+1/1/2019 18:59,fraud_Kuphal-Toy,food_dining,136.51,F,OK,Bookseller,b26c75832826d3fddd03ef7f93b17cc7,0
+1/1/2019 19:00,fraud_Brown PLC,misc_net,229.3,F,PA,Energy manager,96297b3157adf248c620acef0219b775,0
+1/1/2019 19:00,fraud_Bartoletti and Sons,personal_care,11.21,M,WA,Clothing/textile technologist,180901d384a8c4b7ae33b1ba97a628b7,0
+1/1/2019 19:01,fraud_Weber and Sons,food_dining,80.86,F,TX,Systems developer,2fc1bb558f1882e8e33c8db6e22bc9c3,0
+1/1/2019 19:01,fraud_Adams-Barrows,health_fitness,130.49,F,MI,Immunologist,6d7e6beaddd21d9054d77325e9913471,0
+1/1/2019 19:01,fraud_Erdman-Schaden,personal_care,100.44,F,WA,Special educational needs teacher,6bb183c6898ef0d0475aca1f846a51d0,0
+1/1/2019 19:02,fraud_Langworth LLC,personal_care,38.06,M,MD,Science writer,332fff39328f778383c0bafc15aebb5d,0
+1/1/2019 19:02,fraud_Waters-Cruickshank,health_fitness,40.88,F,IL,"Restaurant manager, fast food",ac747247352acffdad8379e0701acd15,0
+1/1/2019 19:02,"fraud_Witting, Beer and Ernser",home,18.54,M,LA,"Engineer, petroleum",803f99e407f43e16fd7f532185fa9bb3,0
+1/1/2019 19:03,"fraud_Brown, Homenick and Lesch",health_fitness,147.93,F,TX,Hydrogeologist,4415417b5912cdc1319341ce9be6a781,0
+1/1/2019 19:04,"fraud_Conroy, Balistreri and Gorczany",health_fitness,49.75,M,UT,Location manager,718cd2b29394c0d5caaaea5eaa4f728e,0
+1/1/2019 19:04,fraud_Gleason and Sons,kids_pets,81.76,F,PA,Insurance claims handler,894dcf900cc6165abd676f0c1b0346e4,0
+1/1/2019 19:05,fraud_Champlin-Casper,home,35.97,F,IL,Archivist,dfe1a5aae30a1081d8db26a228cdae10,0
+1/1/2019 19:05,"fraud_Kutch, Steuber and Gerhold",food_dining,81.48,F,WV,Systems developer,882dfad5e2c7578377d9acfa9e62ec67,0
+1/1/2019 19:05,"fraud_O'Connell, Botsford and Hand",home,75.44,M,ND,Television floor manager,487f81a2ef25981838f2da53239a77f3,0
+1/1/2019 19:06,"fraud_Schoen, Nienow and Bauch",personal_care,81.61,M,NY,Environmental health practitioner,c398da20f97d3d02055516a960b0bea4,0
+1/1/2019 19:06,fraud_Bartoletti and Sons,personal_care,163.88,F,MD,Insurance underwriter,6b40b415086aec16c63f076063fd57eb,0
+1/1/2019 19:06,fraud_Erdman-Schaden,personal_care,1.24,M,VA,Health visitor,54b1d77b9ee6639da427de1bad7b1fc7,0
+1/1/2019 19:06,fraud_Block-Hauck,travel,4.52,F,PA,Dispensing optician,270a07e3b4b0c6049e7cad0b1261252f,0
+1/1/2019 19:07,fraud_Mohr Inc,shopping_pos,9.59,F,LA,"Surveyor, rural practice",bc71a738fc462ce6b43a57ac671a3e4d,0
+1/1/2019 19:07,"fraud_Schneider, Hayes and Nikolaus",food_dining,83.19,M,MN,Communications engineer,cec7cf3da6ab93e61d68cc4465c50989,0
+1/1/2019 19:07,fraud_McKenzie-Huels,food_dining,1.88,M,PA,Retail merchandiser,84419b38e031673139124f5a8824eea9,0
+1/1/2019 19:07,fraud_Champlin and Sons,home,48.4,F,AL,Materials engineer,cfc112ca8ebfc0dea879fd0e3bba8a91,0
+1/1/2019 19:08,fraud_Carroll PLC,health_fitness,28.93,F,OH,Research scientist (medical),a2cee8d818ae1938fb60fd1d3695148d,0
+1/1/2019 19:08,fraud_Abshire PLC,entertainment,1.16,F,OH,Research scientist (medical),3844e41c311cb49b38a92dfc0b20c347,0
+1/1/2019 19:08,fraud_Howe PLC,entertainment,34.67,F,KS,Film/video editor,bf5cbe2ff2d7de7949991bf5fb577c44,0
+1/1/2019 19:09,fraud_Cormier LLC,health_fitness,6.26,F,NJ,Science writer,288e0a1f89eaf57a00734a44998d8e16,0
+1/1/2019 19:09,fraud_Little Ltd,kids_pets,41.03,F,PA,Podiatrist,f019eacbfae389513edf23f8f7f263c9,0
+1/1/2019 19:09,"fraud_Lesch, D'Amore and Brown",food_dining,29.85,F,OK,"Teacher, special educational needs",59123cb1eaaf26d3cd36a498b8bc9458,0
+1/1/2019 19:09,fraud_Heathcote LLC,shopping_net,3.94,M,TN,"Journalist, newspaper",d935c41f44b9916982a2c008cdeb979a,0
+1/1/2019 19:11,fraud_Bernhard-Lesch,food_dining,60.29,M,WY,"Administrator, local government",c98fd8f971ea876e7ae4346359ec9fc8,0
+1/1/2019 19:11,"fraud_Witting, Beer and Ernser",home,50.33,M,IA,Administrator,5fd952b00127bd94649603cfb7db1b8e,0
+1/1/2019 19:12,"fraud_Kunze, Larkin and Mayert",travel,8.43,M,OR,"Engineer, building services",dab82481c8c500b39b94972379d07c9a,0
+1/1/2019 19:13,fraud_Block-Hauck,travel,5.33,M,LA,"Engineer, petroleum",7b9bf2ff33c0de08296b5fccb8b1829f,0
+1/1/2019 19:13,fraud_Bode-Rempel,kids_pets,1.96,F,ME,Make,8c5aee57c2343f32b1d36e5e3cbf076f,0
+1/1/2019 19:13,fraud_Collier LLC,home,14.11,M,LA,"Engineer, petroleum",ac598e2d435a7a172e8ae06deab66471,0
+1/1/2019 19:14,"fraud_Kutch, Steuber and Gerhold",food_dining,94.45,F,LA,"Surveyor, rural practice",323d136497f6ecc869cc6fe7ee26c8a2,0
+1/1/2019 19:15,"fraud_Romaguera, Wehner and Tromp",kids_pets,13.51,F,AR,"Programmer, applications",c1e6b1797245528e34e1b1e2670cd471,0
+1/1/2019 19:15,fraud_Windler LLC,kids_pets,14.93,M,IN,Retail banker,940eddf7656dac615058075897c6e0a2,0
+1/1/2019 19:15,"fraud_Bernhard, Grant and Langworth",shopping_pos,185.87,F,PA,Structural engineer,bf15d61e00358c618bcf0b6e5f84c4d4,0
+1/1/2019 19:16,"fraud_Durgan, Gislason and Spencer",home,44.53,F,WV,Fine artist,370e1dddad381e96d576a73def95a642,0
+1/1/2019 19:16,fraud_Schmidt and Sons,shopping_net,4.01,M,PA,Advice worker,f8a36d969facfe882767e09ff65b8e6e,0
+1/1/2019 19:16,fraud_O'Keefe-Wisoky,food_dining,92.13,M,GA,"Therapist, occupational",326ff0a1c0df2ee307b7015c8eff3060,0
+1/1/2019 19:16,fraud_Schmidt-Larkin,home,2.93,F,IA,Sports administrator,d39a91ecf46df45fc145b1d1d2702f5e,0
+1/1/2019 19:16,fraud_Gottlieb Group,kids_pets,19.56,M,TX,Site engineer,8df9ae8a974e7f49c83deddab584dd06,0
+1/1/2019 19:17,fraud_Schulist Ltd,food_dining,6.86,M,MN,Chemical engineer,5a4619b817a9a6cc38e9f70281d84e26,0
+1/1/2019 19:17,fraud_Gleason and Sons,kids_pets,11.59,F,IA,Camera operator,86b1d86c983f3df80cf6ff4e93e838e7,0
+1/1/2019 19:18,fraud_Leffler-Goldner,personal_care,100.08,F,PA,Special educational needs teacher,b9a693be83629cd8dd4620233dc6b7b2,0
+1/1/2019 19:18,fraud_Shanahan-Lehner,personal_care,17.18,F,FL,Paramedic,ea1801aa6181bc5c12e8edf76077f0da,0
+1/1/2019 19:18,"fraud_Hintz, Bauch and Smith",health_fitness,73.76,F,PA,Special educational needs teacher,8536e75b21375652a4d480bf71aa1305,0
+1/1/2019 19:18,fraud_Prosacco LLC,personal_care,49.53,M,OK,Sub,d887e15bf29eaeed2e1f940e97378d36,0
+1/1/2019 19:19,"fraud_Crist, Jakubowski and Littel",home,89.82,M,WI,Child psychotherapist,18f62e8c0bd83127fac2700d5f71b94e,0
+1/1/2019 19:19,fraud_Bashirian Group,shopping_net,21.63,F,IL,English as a foreign language teacher,ffac6430d4b4bd20440434ce1bea06c3,0
+1/1/2019 19:19,"fraud_Roberts, Daniel and Macejkovic",kids_pets,42.61,M,WY,"Administrator, local government",434a1f90f4afd7582f506174ccc9f3ca,0
+1/1/2019 19:20,"fraud_Bahringer, Schoen and Corkery",shopping_pos,7.29,F,OK,Amenity horticulturist,267d77a4fe01a3f19eaca17767e33568,0
+1/1/2019 19:21,fraud_Tillman LLC,travel,9.64,M,IN,"Doctor, general practice",ed4222d7067d2a71d67f4f6d99263b27,0
+1/1/2019 19:22,fraud_Kub PLC,personal_care,22.26,M,AR,"Designer, ceramics/pottery",316c6b855af0745bca296860529db96b,0
+1/1/2019 19:22,fraud_Langworth LLC,personal_care,81.94,M,OH,"Designer, television/film set",1984b8093113ca36baf61cff706b442c,0
+1/1/2019 19:22,fraud_Connelly-Carter,home,49.89,M,NY,Further education lecturer,8cc46dbd45361e1269290d2407a94220,0
+1/1/2019 19:23,fraud_Beier LLC,entertainment,4.12,F,CT,Herpetologist,4842d6f9fc926d12e77f37852025a176,0
+1/1/2019 19:24,fraud_Pacocha-Weissnat,kids_pets,49.98,F,TX,Chiropodist,e04aae082a61324256b9ff66c2ec3b73,0
+1/1/2019 19:24,fraud_Little-Gleichner,travel,3.58,F,FL,Paramedic,2eccef110f176668a4488fccb090d174,0
+1/1/2019 19:24,fraud_Bode-Rempel,kids_pets,114.22,M,NE,Dealer,8be6533deff4031cd250777040195860,0
+1/1/2019 19:25,fraud_Volkman PLC,food_dining,17.55,M,IA,Medical secretary,5151ce5e8e44c4ee2025ee44a8f25b95,0
+1/1/2019 19:26,"fraud_Hintz, Bauch and Smith",health_fitness,7.07,M,OH,"Designer, television/film set",b34a80940841b2dfccbd3a78537afa92,0
+1/1/2019 19:26,fraud_Sawayn PLC,shopping_pos,672.79,M,WI,"Accountant, chartered public finance",df45bbd3db89b6c7abf8a0955786eea7,0
+1/1/2019 19:27,fraud_Jast-McDermott,shopping_pos,3.68,M,IA,IT trainer,9eb1677a35f69b318de7b09b5aa4db18,0
+1/1/2019 19:29,fraud_Breitenberg-Hermiston,kids_pets,15.33,M,MS,"Librarian, academic",89dfde4fa4284b66b0f4b82feee77308,0
+1/1/2019 19:29,fraud_McGlynn-Jaskolski,misc_pos,134.99,F,WA,Special educational needs teacher,d73ba068c7befebe2ba16d90fdaf001d,0
+1/1/2019 19:29,fraud_Larson-Moen,entertainment,9.17,F,AL,Materials engineer,7101e6e888cd78ef285bbffb15cc0e6c,0
+1/1/2019 19:30,fraud_Pouros-Conroy,shopping_pos,4.99,F,TX,Press sub,6f35d6768650e9b60081f5b5f51b07c4,0
+1/1/2019 19:30,fraud_Mosciski Group,travel,6.72,M,NV,Immunologist,7df005c07d00d183433e252089570cc9,0
+1/1/2019 19:30,fraud_Rau-Grant,kids_pets,154.47,M,NV,Interpreter,2e03dbaf090cfa0852754ba69556cecc,0
+1/1/2019 19:31,fraud_Jakubowski Inc,home,109.41,M,TX,"Doctor, general practice",f107b13442faad7bb68e675148ec396d,0
+1/1/2019 19:31,fraud_Greenholt Ltd,health_fitness,73.81,M,GA,Advertising account executive,934b3c6d6d006b14d1f95d717f663c93,0
+1/1/2019 19:31,fraud_Baumbach Ltd,personal_care,71.86,M,WV,Special effects artist,092387a24ed0e9c5fafef219d4fa7c86,0
+1/1/2019 19:32,"fraud_Durgan, Gislason and Spencer",home,20.6,F,MN,Barrister,423b5ca9e524b50ae9180091382e3245,0
+1/1/2019 19:32,fraud_Howe PLC,entertainment,40.83,M,WI,"Engineer, production",08707639e90b7792dbb7b8e1d6fa73b6,0
+1/1/2019 19:32,fraud_Kuphal-Toy,food_dining,59.59,M,IL,Outdoor activities/education manager,52174f15fd4f28f0fcb9c51a35dc2381,0
+1/1/2019 19:32,fraud_Erdman-Durgan,health_fitness,168.64,F,MN,"Research officer, trade union",51235a072db4e660ea5fc090c121709d,0
+1/1/2019 19:32,fraud_Homenick LLC,personal_care,43.76,F,IA,Camera operator,1b6b6ec28838722e38b520819053d561,0
+1/1/2019 19:33,fraud_Metz-Boehm,shopping_pos,2.17,F,AL,Politician's assistant,d0c17b3fe813a8e7e75f7ba11d9765bb,0
+1/1/2019 19:34,"fraud_Reichert, Huels and Hoppe",shopping_net,52.57,F,TX,"Radiographer, therapeutic",0491c9888eced0a26dd9619240fbc3c2,0
+1/1/2019 19:35,fraud_O'Keefe-Wisoky,food_dining,1.29,F,MD,Regulatory affairs officer,9feff259929741cf4705deff0c7e6516,0
+1/1/2019 19:35,"fraud_Runolfsdottir, Mueller and Hand",entertainment,46.28,M,IL,Trade mark attorney,73ad5a9c8d13851941bd9a46956600a2,0
+1/1/2019 19:35,fraud_Fisher-Schowalter,shopping_net,1.3,F,FL,"Geneticist, molecular",dac2ee017ff976a7958fafce4b24f592,0
+1/1/2019 19:35,"fraud_Torp, Muller and Borer",health_fitness,29.48,M,PA,Retail merchandiser,73f8bccbe2bfe8903d6b68059f76c024,0
+1/1/2019 19:36,fraud_Nienow PLC,entertainment,20.76,M,NY,Video editor,e9b74fb9db8bc604e7c922f8173582a5,0
+1/1/2019 19:36,fraud_Runte-Mohr,food_dining,55.57,F,TX,"Radiographer, therapeutic",effa2f42d81a9f1c40af3a5d288850f2,0
+1/1/2019 19:37,fraud_Morissette PLC,shopping_pos,8.31,F,MI,Trade mark attorney,ce4b5380d401cb7ef7985264f284384e,0
+1/1/2019 19:38,fraud_Beier and Sons,home,49.93,F,PA,Systems developer,a88e59c452d08195c0fdf1664fd1d86e,0
+1/1/2019 19:38,fraud_Jerde-Hermann,travel,1.73,F,CA,"Civil engineer, contracting",1e566a2b4ba3e57e8f6c081fc6a1a996,0
+1/1/2019 19:39,fraud_Botsford and Sons,home,262.12,M,VA,"Designer, ceramics/pottery",451f3f46cf27c32c89d3ab121f28feb6,0
+1/1/2019 19:39,"fraud_Denesik, Powlowski and Pouros",home,37.15,M,NC,Paramedic,776f322f93899117a3dd03b4f278ec07,0
+1/1/2019 19:39,"fraud_Kihn, Brakus and Goyette",personal_care,3.09,M,NM,Historic buildings inspector/conservation officer,2588cd0877ed416b529c9a5203756378,0
+1/1/2019 19:42,fraud_Metz-Boehm,shopping_pos,6.53,M,IN,"Research officer, trade union",46ad8822f30bfed21887ebe207ad8dd7,0
+1/1/2019 19:43,fraud_Homenick LLC,personal_care,100.65,M,MD,Music tutor,4816d3628a9f22c4c8f3322dfaa90577,0
+1/1/2019 19:43,fraud_Brown-Greenholt,entertainment,1.21,F,VA,Energy engineer,885f814dcd0c50cffc596b985eeab8ef,0
+1/1/2019 19:44,fraud_Connelly-Carter,home,77.95,F,MN,Applications developer,895e7b9b124a55ad54245fe631a2846c,0
+1/1/2019 19:45,fraud_Eichmann-Kilback,home,35.91,M,MI,Horticultural consultant,34888ec5d5bd9b270abb4961737ec6db,0
+1/1/2019 19:46,"fraud_Roberts, Ryan and Smith",personal_care,43.36,F,IL,"Buyer, industrial",364e565be978b687805149d2d7914fbc,0
+1/1/2019 19:47,"fraud_Mante, Luettgen and Hackett",health_fitness,25.28,M,PA,Nutritional therapist,92f84e0d58bd43bbe8534d41c9720d9b,0
+1/1/2019 19:47,fraud_Shanahan-Lehner,personal_care,8.22,F,NY,Psychotherapist,abea290c63ac1cd5ae4fd029adec9fbb,0
+1/1/2019 19:47,fraud_Kirlin and Sons,personal_care,20.93,F,NY,Film/video editor,0702d9e5f56f192558033512c5a478e6,0
+1/1/2019 19:47,"fraud_Hills, Hegmann and Schaefer",health_fitness,37.39,F,AL,Ceramics designer,5edd83baea615a22f1100da58f592376,0
+1/1/2019 19:48,"fraud_Pouros, Walker and Spencer",kids_pets,3.51,F,UT,Futures trader,2c2d62c3b52ef131bc198b194d7b6838,0
+1/1/2019 19:49,"fraud_Schoen, Nienow and Bauch",personal_care,20.71,F,NY,"Producer, radio",c04ef0784e675f0ea380872e7ee3cfff,0
+1/1/2019 19:51,fraud_Abbott-Steuber,personal_care,4.36,F,SC,Research scientist (physical sciences),c0d68971d9b9c34b06b7df2ced828e4c,0
+1/1/2019 19:51,fraud_Boyer-Reichert,shopping_net,1.43,F,MI,Geophysicist/field seismologist,ce747d31ba8821dc532d8959275ffe8e,0
+1/1/2019 19:52,fraud_Kihn-Schuster,food_dining,4.92,F,IL,Race relations officer,de9cdaf7d0e6e2fc40df7655482a4084,0
+1/1/2019 19:52,"fraud_Altenwerth, Cartwright and Koss",shopping_net,13.21,M,IL,Commercial/residential surveyor,3126bced8bc19876d88f9b969e9d4635,0
+1/1/2019 19:52,fraud_Denesik and Sons,shopping_pos,5.92,F,TX,Warden/ranger,f78c3b2280b8a9066ffb622b0cf13b1c,0
+1/1/2019 19:52,"fraud_Roberts, Ryan and Smith",personal_care,1.31,F,KY,"Therapist, sports",ae82843ce73f8f831d68a5a959009461,0
+1/1/2019 19:52,fraud_Padberg-Sauer,home,14.41,F,AR,"Lecturer, further education",6bfac8d079811b00f216c0132c72d7f1,0
+1/1/2019 19:53,fraud_Veum-Koelpin,travel,6.62,F,NY,"Designer, textile",a2e10227919d3fb5ec02afa2d43a32a8,0
+1/1/2019 19:53,"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,67.54,F,MN,"Lecturer, further education",405e201c3acf547e772f59fa02b89ca7,0
+1/1/2019 19:53,"fraud_McDermott, Osinski and Morar",home,36.16,F,MI,Immunologist,fad807cbb254b4aca50e336783e8773b,0
+1/1/2019 19:54,"fraud_Becker, Harris and Harvey",personal_care,29.24,M,CA,Systems analyst,f46cb7a27c537485ae4b898d539eeff8,0
+1/1/2019 19:54,"fraud_Lowe, Dietrich and Erdman",kids_pets,68.16,F,NY,Psychotherapist,26d3f0f52b9589d65ab31c343fa5f903,0
+1/1/2019 19:54,fraud_Hudson-Grady,shopping_pos,2.56,F,TX,Financial adviser,74e9812ce1cca4bb5933c513852cf1ef,0
+1/1/2019 19:55,fraud_Heathcote LLC,shopping_net,229.06,F,AZ,Petroleum engineer,07232949bfb231b46bb6c82ab036e95b,0
+1/1/2019 19:55,fraud_Schmitt Ltd,misc_net,69.29,F,IN,"Psychologist, forensic",279ec131957edd4ae09272cae94aa62d,0
+1/1/2019 19:56,fraud_Nader-Maggio,personal_care,27.31,F,SD,"Development worker, international aid",18b4ce2a47641e0a99e4093a54001cab,0
+1/1/2019 19:56,"fraud_Windler, Goodwin and Kovacek",home,22.22,F,IL,"Scientist, research (physical sciences)",02de89d728438c7f85c1d18a2bbb4545,0
+1/1/2019 19:57,fraud_Morissette-Schaefer,personal_care,227.33,M,WV,Chartered public finance accountant,af6a0d70a28615703bd6fb8eddc085bc,0
+1/1/2019 19:58,"fraud_Bahringer, Bergnaum and Quitzon",home,85.96,M,KS,Equality and diversity officer,35c6fa4cd59091e6caab5c86a1e11e01,0
+1/1/2019 19:58,fraud_Watsica LLC,personal_care,47.86,F,OK,Amenity horticulturist,3abbe5c6e85f0a0d78ea7d5a08ae45a8,0
+1/1/2019 19:59,"fraud_Romaguera, Wehner and Tromp",kids_pets,2.72,F,IN,Firefighter,d56be47a4434a00e1fe0a4d2fa4329a1,0
+1/1/2019 19:59,fraud_Sporer-Keebler,personal_care,65.63,M,VA,"Geologist, engineering",8ddeb0b9acc466fd08a219c31fc6fa51,0
+1/1/2019 20:00,fraud_Medhurst Inc,home,48.25,M,IA,Medical secretary,e8e59291233bdd61896a63b9b045804e,0
+1/1/2019 20:00,fraud_Halvorson Group,misc_pos,3.76,F,PA,"Scientist, research (maths)",e544e0d3e8013f6ff0982887d1e3aab9,0
+1/1/2019 20:01,fraud_Watsica LLC,personal_care,30.94,F,AL,Chemical engineer,90d0c26cfc04e17d39b68f47f4a955b1,0
+1/1/2019 20:01,"fraud_Schroeder, Wolff and Hermiston",travel,2.1,F,PA,Patent attorney,d9f24308178698833f60fcad7237eada,0
+1/1/2019 20:01,fraud_Schumm PLC,health_fitness,5.96,F,MT,Water engineer,f7aade0e847b52a1cfa3408a369b0afc,0
+1/1/2019 20:02,fraud_Pagac LLC,shopping_pos,47.5,F,MN,Fisheries officer,a59c18da784b3fe41a5e6d7d7834c170,0
+1/1/2019 20:02,fraud_Zulauf LLC,personal_care,69.78,F,NC,English as a second language teacher,32f439241abfe17d9b0529d58989d27f,0
+1/1/2019 20:02,fraud_Erdman-Schaden,personal_care,69.54,F,OK,"Programme researcher, broadcasting/film/video",83bea0b8be65253dc78a975989df1d21,0
+1/1/2019 20:02,"fraud_Torp, Muller and Borer",health_fitness,71.62,M,MO,Tourist information centre manager,1178f236bbf9ada6fcc79ac89567c202,0
+1/1/2019 20:03,"fraud_Bahringer, Osinski and Block",food_dining,142.57,M,PA,Retail merchandiser,08f2266c025a5fdbc198011658958a96,0
+1/1/2019 20:04,fraud_Buckridge PLC,misc_pos,6.83,M,CA,Advertising account planner,793c454ac9541d35eccfb18fc1a6976b,0
+1/1/2019 20:04,fraud_Macejkovic-Lesch,shopping_pos,64.12,F,AZ,Contractor,ef2c9c9fe89a3a4a57a7797da0fcad62,0
+1/1/2019 20:04,fraud_Streich Ltd,home,121.21,F,WA,Osteopath,9969e4547a6a154ffcb339470f972ff6,0
+1/1/2019 20:04,fraud_Nader-Maggio,personal_care,74.9,M,CO,Human resources officer,9a2aca559b2710715119a01e718fbfa1,0
+1/1/2019 20:04,fraud_Sawayn PLC,shopping_pos,1.37,F,TX,Warden/ranger,8ed7ba5d65f068a41418d9bb1143ac97,0
+1/1/2019 20:04,fraud_Nienow PLC,entertainment,9.76,M,IN,Retail banker,41740a02e72b7a619e1352ed33f78276,0
+1/1/2019 20:05,fraud_Connelly-Carter,home,14.48,F,PA,Podiatrist,50d142c7c295790b43c1c9891b78c4ec,0
+1/1/2019 20:05,fraud_Volkman-Predovic,shopping_net,7.35,M,ME,"Engineer, electronics",6046e89010a18807a5a0fffd7085c292,0
+1/1/2019 20:05,"fraud_Dare, Casper and Bartoletti",kids_pets,79.25,F,KY,"Development worker, international aid",3747764bf59e9ebd01ed1838c9989df4,0
+1/1/2019 20:05,"fraud_Douglas, Schneider and Turner",shopping_pos,5.2,M,NY,Further education lecturer,fe4d2bd74e0e61723ea227ec409b7b62,0
+1/1/2019 20:07,"fraud_Feil, Hilpert and Koss",food_dining,93.82,M,IN,"Doctor, general practice",011c4083f0011cefa23a40494399204a,0
+1/1/2019 20:08,fraud_Gottlieb-Hansen,personal_care,23.01,F,IA,Camera operator,475b7df876a1cac684d819b807195b70,0
+1/1/2019 20:09,fraud_Kozey-Kuhlman,personal_care,161.16,F,IL,Medical secretary,b5eabb54952ed6bbad8eed5d7f9d23f2,0
+1/1/2019 20:09,fraud_Crooks and Sons,personal_care,24.77,F,WA,Public house manager,e8a94d15434e1172051efd78c808aa6d,0
+1/1/2019 20:12,fraud_Gottlieb Group,kids_pets,59.22,M,TX,"Pharmacist, community",add3f42ec68b9f00bb88dda1411406c4,0
+1/1/2019 20:12,fraud_Friesen Ltd,health_fitness,12.3,F,OR,Radio broadcast assistant,ff563526ed8274bb94ba119c5db56155,0
+1/1/2019 20:12,fraud_Morissette-Schaefer,personal_care,34.15,F,MN,Fisheries officer,68b2620d73605a5c7c31b670ea6a6bcd,0
+1/1/2019 20:12,fraud_Schmitt Ltd,misc_net,135.45,M,NE,"Surveyor, land/geomatics",ca7dcf7144c26ab151ad31efa97aaabe,0
+1/1/2019 20:13,fraud_Runte-Mohr,food_dining,28.3,M,MI,"Engineer, automotive",90aa34733f6bd53f4ff5333455e50dcc,0
+1/1/2019 20:13,fraud_Veum-Koelpin,travel,9.04,M,NC,"Scientist, research (maths)",e36322eb758d0fb722bed29e7dd98338,0
+1/1/2019 20:14,"fraud_Konopelski, Schneider and Hartmann",food_dining,4.76,M,KY,Pensions consultant,d1f2e0abf9f312989c5135f3fb86d1db,0
+1/1/2019 20:15,"fraud_Stanton, Jakubowski and Baumbach",shopping_net,5.04,F,NY,Psychotherapist,51a4e5d59cd215e99daf42462a1a511c,0
+1/1/2019 20:15,fraud_Kris-Padberg,shopping_pos,4.26,F,WY,Music therapist,6619864ffcab1d7e8abba81ef3d031f6,0
+1/1/2019 20:15,fraud_Connelly-Carter,home,57.45,M,NM,Naval architect,df5de84fd8cb7ad1c0e1953a404031d6,0
+1/1/2019 20:16,fraud_Watsica LLC,personal_care,29.8,F,OK,Bookseller,7364e374bf559f822062f421b382eca0,0
+1/1/2019 20:16,fraud_Pouros-Conroy,shopping_pos,6.49,F,NM,"Surveyor, land/geomatics",7eb1642bc0c2d7b146441ca74ac55090,0
+1/1/2019 20:17,fraud_Terry Ltd,home,88.69,M,WI,Occupational hygienist,746b10a072726f22c2a9e364992c7ccd,0
+1/1/2019 20:20,"fraud_O'Connell, Botsford and Hand",home,42.98,M,KS,"Librarian, public",0b8d9702adf1d811f146ade904f13aec,0
+1/1/2019 20:20,"fraud_Runte, Green and Emard",health_fitness,130.01,F,GA,Prison officer,8ad2e4f45bda29d2876719c80f6e44e6,0
+1/1/2019 20:20,fraud_Kilback and Sons,entertainment,6.36,F,OK,Amenity horticulturist,f9235cf52a6f3f5a66a1f5c9047793cc,0
+1/1/2019 20:21,fraud_Zulauf LLC,personal_care,16.19,M,DC,"Optician, dispensing",ae30df6958d2fd298564cc3002fcfbe4,0
+1/1/2019 20:21,fraud_Gaylord-Powlowski,home,45.67,F,MI,Trade mark attorney,86fdd58a64812dea00263a70a8f1daa5,0
+1/1/2019 20:22,"fraud_Turcotte, Batz and Buckridge",health_fitness,46.25,M,NY,Travel agency manager,e0059d3115a624aca3140700f622bdb8,0
+1/1/2019 20:22,fraud_Flatley Group,misc_pos,3.15,F,MT,Water engineer,0cdc5eecb9e7919adfe85190cb0676b1,0
+1/1/2019 20:23,fraud_Ernser-Lynch,food_dining,4.04,F,NY,Medical sales representative,74c6ffc9ecad3207bd739c01aef41ec6,0
+1/1/2019 20:24,fraud_Ebert-Daugherty,travel,5.38,F,GA,Tax adviser,6518b410c31b44d18f96e0bb37e90ea5,0
+1/1/2019 20:25,"fraud_Hermiston, Pacocha and Smith",health_fitness,63.44,M,PA,"Scientist, marine",916f051abf3f67a1a4604013b847f546,0
+1/1/2019 20:25,fraud_Schuppe LLC,entertainment,73.52,M,NJ,Licensed conveyancer,25d61efc6da80ab1ab2339a030188e24,0
+1/1/2019 20:26,fraud_Kilback LLC,food_dining,30.28,F,TX,Press sub,d0546cdfb6bcca258afa243d359b4dc8,0
+1/1/2019 20:26,fraud_Larkin Ltd,kids_pets,12.04,M,TX,Optometrist,64c0e70029ece392a5206b059c6d7047,0
+1/1/2019 20:26,"fraud_Roberts, Daniel and Macejkovic",kids_pets,9.39,M,MO,Land/geomatics surveyor,c12a9a17b8df4adf41ee1d55e781720a,0
+1/1/2019 20:26,fraud_Bogisich-Weimann,kids_pets,141.46,M,CA,Health service manager,4fed9d6795bb838bf11d80ed430efdf0,0
+1/1/2019 20:27,fraud_Veum-Koelpin,travel,4.7,F,NY,Herbalist,dd7f2ac4e0a1e7a8d4cf2014824c57b2,0
+1/1/2019 20:27,fraud_Deckow-Dare,food_dining,26.28,M,WV,Chartered public finance accountant,0c8e0cb07915be2f1b7075b622dcea65,0
+1/1/2019 20:27,fraud_Schoen Ltd,kids_pets,49.4,M,NY,Clinical biochemist,a45d1d73c050f82316c621b93d82fb32,0
+1/1/2019 20:28,fraud_Auer LLC,personal_care,12.37,F,AR,Psychiatric nurse,5719112ca1af0722800e38d8dd2c0ce5,0
+1/1/2019 20:30,"fraud_Schiller, Blanda and Johnson",home,43.36,F,WV,Forensic psychologist,30f30e331371eb22b6da91c264390045,0
+1/1/2019 20:31,"fraud_Effertz, Welch and Schowalter",entertainment,36.91,F,TX,Animator,1e34533bd8b26a579902f1189c8ad74f,0
+1/1/2019 20:32,fraud_Windler LLC,kids_pets,22.67,M,MI,Trading standards officer,fea2f3c349fc728afef2776b2393ff5a,0
+1/1/2019 20:33,fraud_McKenzie-Huels,food_dining,2.91,F,VA,Energy engineer,217641d48f8bd2c1fb3ced17cdb2480e,0
+1/1/2019 20:33,"fraud_Metz, Russel and Metz",kids_pets,305.12,F,OH,Hospital doctor,d429a1e8e35ceeaaa1916a22600384dc,0
+1/1/2019 20:34,fraud_Fadel Inc,health_fitness,73.89,M,TX,Petroleum engineer,8c069d75b83f875341e3ad56f66a694e,0
+1/1/2019 20:34,fraud_Homenick LLC,personal_care,37.72,F,NY,Chief Executive Officer,368c7b4abff82f2f1f9ff973ebd9a71b,0
+1/1/2019 20:35,"fraud_Streich, Dietrich and Barton",shopping_net,4.96,F,MT,Water engineer,e0d28a381292c0ec4c5195e4c9850da5,0
+1/1/2019 20:35,fraud_Daugherty-Thompson,food_dining,24.97,F,MO,Clinical research associate,88857bfe3d2724104a18a639e15a59e0,0
+1/1/2019 20:36,fraud_Nolan-Williamson,kids_pets,135.04,F,NJ,Emergency planning/management officer,cbf2b221c7d6dcc69d2040bf592a3138,0
+1/1/2019 20:37,fraud_Donnelly LLC,entertainment,2.98,M,NV,Animal nutritionist,660be63f2007f562e0c37acfe5697166,0
+1/1/2019 20:38,"fraud_Schuppe, Nolan and Hoeger",shopping_pos,6.28,M,CA,Magazine features editor,80a5528e802180a8dc28d610962e4675,0
+1/1/2019 20:38,fraud_Pagac LLC,shopping_pos,4.1,M,AL,Musician,3beec6b539aad97f1b66745b0f06b1ed,0
+1/1/2019 20:39,"fraud_Kutch, Steuber and Gerhold",food_dining,54.3,F,PA,Patent attorney,165a882d5dd4084a9c4e8bd84fc97a5b,0
+1/1/2019 20:39,"fraud_Wuckert, Wintheiser and Friesen",home,122.8,F,VT,"Scientist, marine",80769449f1723fa7cb6c70111d3df07d,0
+1/1/2019 20:39,fraud_Streich Ltd,home,3.12,M,LA,Herbalist,e776612e31436101a727ffad3668cd52,0
+1/1/2019 20:40,fraud_Kassulke PLC,shopping_net,2.31,F,FL,Clothing/textile technologist,7d2e9194a420e21d6f8cff7bc152f7ae,0
+1/1/2019 20:40,fraud_Berge-Hills,kids_pets,49.81,M,AK,"Administrator, education",08b8f4091bab6c9dba3f34f5e3252e6b,0
+1/1/2019 20:40,fraud_Mayert Group,shopping_pos,1.16,F,MO,Investment analyst,f23d90a52db65b74e64e9043b02949f2,0
+1/1/2019 20:41,"fraud_Kuhic, Bins and Pfeffer",shopping_net,28.73,F,AL,"Surveyor, land/geomatics",045af7610b5755b584f86a045aadb974,0
+1/1/2019 20:42,fraud_Kihn Inc,shopping_pos,7.24,M,MI,Police officer,951bdbb8b2c13fb05df85c79eca3a1ad,0
+1/1/2019 20:42,"fraud_Runolfsdottir, Mueller and Hand",entertainment,34.5,F,KY,"Therapist, sports",994903fc6bdaac9c146f4f606efa6d66,0
+1/1/2019 20:42,"fraud_Ledner, Hartmann and Feest",health_fitness,41.8,F,FL,"Librarian, public",8e3c7575ea517bde9f05d05bb474f089,0
+1/1/2019 20:43,fraud_Reilly LLC,home,33.78,F,PA,Physiotherapist,74b69a941a14987ef8c665c5fa74ee89,0
+1/1/2019 20:44,fraud_Waters-Cruickshank,health_fitness,86.19,F,KS,Secondary school teacher,56ffcca19b1910390da67b4c7bff3a80,0
+1/1/2019 20:44,fraud_Waelchi Inc,kids_pets,51.46,M,TN,Clothing/textile technologist,f2580bd15ce8f1638baccab1302058d7,0
+1/1/2019 20:45,fraud_Grimes LLC,entertainment,64.49,M,GA,Pensions consultant,6e2d060caad7b184f00a5cae457bb678,0
+1/1/2019 20:45,fraud_Renner Ltd,home,34.75,F,OH,"Engineer, biomedical",23f8947ef1502399a3806ecdbbd0b902,0
+1/1/2019 20:45,fraud_Wilkinson LLC,personal_care,31.76,F,NJ,"Engineer, control and instrumentation",63fe8decdde588efc3a2807468efe013,0
+1/1/2019 20:46,fraud_Morissette PLC,shopping_pos,9.43,M,IN,Community arts worker,2309c235514e9c7db1da95701214434e,0
+1/1/2019 20:46,fraud_Kulas Group,health_fitness,49.34,F,CO,Water engineer,ca764fc27ed9bb095cfe836b25cf7d84,0
+1/1/2019 20:46,fraud_Jast and Sons,food_dining,7.96,M,TX,Futures trader,624af98b7f17d7cb90afec6c8021b992,0
+1/1/2019 20:47,fraud_Romaguera Ltd,health_fitness,113.72,M,WV,Accounting technician,905d7c639f48cdbdf1feaaae56d16e24,0
+1/1/2019 20:47,fraud_Hirthe-Beier,health_fitness,71.37,M,MI,General practice doctor,bb44dffabcba5b228684e1091f9e380a,0
+1/1/2019 20:47,fraud_Stark-Koss,home,99.85,M,TX,Web designer,82979c6a90f1e231f86d2836c3d645c4,0
+1/1/2019 20:47,fraud_Parker-Kunde,personal_care,38.88,M,NY,Diagnostic radiographer,6d9cb488f30045f4f1819ec03cca5c57,0
+1/1/2019 20:47,fraud_Donnelly LLC,entertainment,49,F,FL,Paramedic,8a014687dd2b71799982b3d7f1e3cfca,0
+1/1/2019 20:48,"fraud_Swaniawski, Lowe and Robel",shopping_pos,3.33,F,NE,"Surveyor, mining",adc264d28c86bd4ad88344e52f48c13e,0
+1/1/2019 20:48,fraud_Pollich LLC,home,41.12,M,MN,"Embryologist, clinical",503ffb028089605bb2bcb49b53cd4198,0
+1/1/2019 20:49,fraud_Brown Inc,kids_pets,203.37,M,NY,"Programmer, multimedia",155aae66e9346379f2e2961c4e81ea25,0
+1/1/2019 20:49,fraud_Lemke and Sons,travel,542.74,M,MN,Horticultural therapist,8d3f458495a3b7a4e8eb3bc79dbf750a,0
+1/1/2019 20:49,fraud_Kulas Group,health_fitness,21.2,F,PA,Maintenance engineer,cf37f17b70cfe49cd922b78b23246f12,0
+1/1/2019 20:49,fraud_Will Ltd,food_dining,105.78,M,TX,Exhibition designer,dd25ad6eb8d19c91179b1aec1cd698f3,0
+1/1/2019 20:50,fraud_Kuhic LLC,shopping_net,8.87,M,AL,Musician,8d915c8cd3123c1b4f788a742ef7ce15,0
+1/1/2019 20:50,fraud_Barton LLC,kids_pets,54.85,F,WV,Sub,0c77d31158ff932b97d1e3d527fb2543,0
+1/1/2019 20:51,fraud_Auer LLC,personal_care,3.03,M,WV,Exhibition designer,ba4549696720bc43e9c7c19cad29b620,0
+1/1/2019 20:51,"fraud_Bins, Balistreri and Beatty",shopping_pos,8.91,F,NY,Film/video editor,be45625dfac6579f0d38bfaa602165bd,0
+1/1/2019 20:53,fraud_Welch Inc,misc_net,9.05,F,NY,Comptroller,2cc3ce2d2c96b0cb1255d57132a13402,0
+1/1/2019 20:53,"fraud_Weber, Thiel and Hammes",kids_pets,58.46,F,TX,Radio producer,2b38af535217e2b44f412b5f7dad85ca,0
+1/1/2019 20:53,fraud_Runte-Mohr,food_dining,49.33,F,TX,Sub,a49bc26702b34362376f240d4bcb68b0,0
+1/1/2019 20:54,fraud_Torphy-Kertzmann,health_fitness,159.44,F,NE,Insurance broker,d6edc00de359979b84ea826456586119,0
+1/1/2019 20:54,fraud_Friesen Ltd,health_fitness,6.31,M,NV,Immunologist,9b01e2e72d6f2745061d46e50221dff5,0
+1/1/2019 20:55,"fraud_Reichert, Shanahan and Hayes",shopping_net,83.98,F,NY,"Librarian, public",a4edd01d963a8d7a76b786194422ddd3,0
+1/1/2019 20:55,fraud_Heller PLC,health_fitness,30.41,F,HI,"Scientist, research (maths)",3d4e4c4d11727bc96ba0a46fcea32117,0
+1/1/2019 20:56,fraud_O'Hara-Wilderman,food_dining,95.51,M,IA,IT trainer,8fabd898452abe24326e5cc9d38da86a,0
+1/1/2019 20:56,fraud_Stamm-Rodriguez,misc_pos,9.97,M,SC,Materials engineer,bc9ed972d53a176d8c4ce1fe7e9e4bd3,0
+1/1/2019 20:57,fraud_Hermann and Sons,shopping_pos,5.96,F,MN,Fisheries officer,170197eaea0269969fbc5b068cfde642,0
+1/1/2019 20:58,"fraud_Schiller, Blanda and Johnson",home,35.49,F,TN,Geochemist,2b4d5146595f2316873b8d9ed49004d2,0
+1/1/2019 20:59,fraud_Lemke-Gutmann,shopping_net,2.22,M,NY,Travel agency manager,d6e3b7c09e19771113c520378f02d545,0
+1/1/2019 21:01,"fraud_Bahringer, Osinski and Block",food_dining,20.12,F,OH,"Engineer, biomedical",22163628d6f10a5ae60cf49b7ee276f9,0
+1/1/2019 21:01,fraud_Hilpert-Conroy,kids_pets,40.89,M,PA,"Scientist, marine",2fc29061cc53d3b406acbec96da799a4,0
+1/1/2019 21:01,fraud_Kassulke Inc,entertainment,7.97,F,ND,Illustrator,704c1bc84361453e6c631476673e7c85,0
+1/1/2019 21:02,"fraud_Weimann, Kuhic and Beahan",shopping_pos,188.59,F,MN,Ceramics designer,8f6ba27a98d9f6047f168ec700986b44,0
+1/1/2019 21:02,"fraud_McLaughlin, Armstrong and Koepp",travel,2.69,F,KY,"Development worker, international aid",d44ecb7a0c4c0c49bfd30f2e0cfae29c,0
+1/1/2019 21:03,fraud_Abernathy and Sons,food_dining,62.47,M,VA,"Geologist, engineering",72a8954dad66f48914b710654ebdc24b,0
+1/1/2019 21:03,fraud_Buckridge PLC,misc_pos,3.04,F,PA,"Scientist, research (maths)",6e65cd31dee641d1eba6e7a227444e5e,0
+1/1/2019 21:03,"fraud_Nicolas, Hills and McGlynn",entertainment,8.34,M,CA,Magazine features editor,3c99d4c6f747cc0dd9d81ed63d261a80,0
+1/1/2019 21:03,fraud_Eichmann-Kilback,home,5.28,M,VA,"Designer, multimedia",adc94f7bdae959354912b9b3a2f3d85d,0
+1/1/2019 21:04,fraud_Kilback and Sons,entertainment,76.59,M,TX,Petroleum engineer,8fcafd9181b9f70451fb3d56ea96055e,0
+1/1/2019 21:04,"fraud_Boehm, Block and Jakubowski",misc_pos,2.52,F,WV,Forensic psychologist,edb8d78464c5bf740196d9a4e62f5e27,0
+1/1/2019 21:04,"fraud_Torp, Muller and Borer",health_fitness,41.29,F,CA,Health physicist,e8026fc4361a07dfeb7f47436395982a,0
+1/1/2019 21:04,fraud_Kassulke Inc,entertainment,133.67,F,NC,Toxicologist,723726b8f271580f3fb98f95355910fb,0
+1/1/2019 21:06,"fraud_Monahan, Hermann and Johns",travel,6.89,F,KS,Secondary school teacher,2d7b8c40e63a58920bf8fc528c84a877,0
+1/1/2019 21:06,fraud_Bode-Schuster,kids_pets,54.84,M,TX,Chief Technology Officer,4f7b586eee73789d5d1702ac3dde12bc,0
+1/1/2019 21:06,"fraud_Kutch, Steuber and Gerhold",food_dining,60.2,M,TX,"Pharmacist, community",73671af302505878cae7cec3fbf7150c,0
+1/1/2019 21:06,fraud_Streich Ltd,home,48.81,M,ME,Make,c6d29befd2321af0ac1950496d006986,0
+1/1/2019 21:07,"fraud_Parker, Nolan and Trantow",entertainment,66.52,M,IN,Horticultural therapist,b314494a84061f577eed72a915d0609c,0
+1/1/2019 21:07,"fraud_Witting, Beer and Ernser",home,29.79,M,MO,Town planner,0b9d5aff74ce10e3b0f400a388b61ef3,0
+1/1/2019 21:09,fraud_Bednar Inc,travel,5.03,M,MA,Geoscientist,7656ad34a3fdbf7d63e1fcbb666c9d46,0
+1/1/2019 21:09,fraud_Prosacco LLC,personal_care,59.22,F,IA,Wellsite geologist,2011ee9343d7899f7349f49dd8260ade,0
+1/1/2019 21:10,fraud_Padberg-Sauer,home,64.23,M,IA,Commercial horticulturist,49d844377706c699b22d2db751a221cb,0
+1/1/2019 21:10,fraud_Bednar Inc,travel,7.76,M,AL,Radio broadcast assistant,0f9f4ad1e2a9040e57524f158ed4cc90,0
+1/1/2019 21:11,fraud_Auer LLC,personal_care,11.35,F,AL,Ceramics designer,858112eb4d7fefb60d06b48334cf793f,0
+1/1/2019 21:12,fraud_Bahringer Group,health_fitness,106.22,M,NY,Science writer,f24c8e8a968df3fee58b2eba2c561d3c,0
+1/1/2019 21:12,"fraud_Dare, Fritsch and Zboncak",health_fitness,4.57,F,OR,"Scientist, physiological",e3702ad397728d0e3c365d5d49071eca,0
+1/1/2019 21:12,"fraud_Heathcote, Yost and Kertzmann",shopping_net,170.26,F,IL,"Teacher, secondary school",4385a562d0cb5401281db998529ea1ec,0
+1/1/2019 21:12,fraud_Friesen Inc,shopping_pos,12.23,F,SD,Neurosurgeon,d1066fca52ff411e2e74122f3ba5daa6,0
+1/1/2019 21:13,fraud_O'Hara-Wilderman,food_dining,4.19,M,MA,English as a second language teacher,fc26a280e498cb5df5f9d88550b51644,0
+1/1/2019 21:13,fraud_Champlin-Casper,home,29.39,F,AL,"Scientist, physiological",97452785459e1a78a14e546370864772,0
+1/1/2019 21:13,"fraud_Pouros, Walker and Spencer",kids_pets,22.54,M,AL,Learning disability nurse,3b99079202a50bb1d64f7d34e2905625,0
+1/1/2019 21:14,fraud_Morissette PLC,shopping_pos,1.4,F,MI,Immunologist,563eaab7497828a4c04f607bdab76920,0
+1/1/2019 21:14,fraud_Bernier and Sons,kids_pets,97.56,F,MI,Writer,47f2d62051f885b9c6f0b3527591daa2,0
+1/1/2019 21:15,fraud_Volkman-Predovic,shopping_net,7.69,F,VT,Claims inspector/assessor,4fd2a542efd007f59c39e68fb86c0e80,0
+1/1/2019 21:15,fraud_Thompson-Gleason,health_fitness,105.41,F,UT,Insurance broker,b62d4562406a8ca35cd68bc6bbadd8d6,0
+1/1/2019 21:15,"fraud_Wuckert, Wintheiser and Friesen",home,40.35,F,MI,"Psychologist, sport and exercise",d4391eebf992e55c8ac1e58ae0bc027b,0
+1/1/2019 21:15,fraud_Grimes LLC,entertainment,20,M,CA,Barista,a96164ad2d238fdbc812d25d35cbbcdb,0
+1/1/2019 21:16,"fraud_Windler, Goodwin and Kovacek",home,71.32,M,NC,Control and instrumentation engineer,697547447e7fb8c7ec39b02da989d432,0
+1/1/2019 21:16,fraud_Beier-Hyatt,shopping_pos,3.4,F,MI,Trade mark attorney,b82012117ade61b520bbe62fc80d4e73,0
+1/1/2019 21:16,fraud_Zulauf LLC,personal_care,86.69,M,FL,Sport and exercise psychologist,9bd514e2e6185bc8eeb1906c8d903a4f,0
+1/1/2019 21:17,fraud_Schuppe LLC,entertainment,95.82,M,NY,Heritage manager,3b3097e61b0cbcbba59e03db6ca01038,0
+1/1/2019 21:17,fraud_Hilpert-Conroy,kids_pets,132.24,F,NY,"Producer, radio",88ccb2ea9b5cce4b1c8df11dbb4cf21d,0
+1/1/2019 21:17,fraud_Jakubowski Inc,home,44.03,F,SC,Magazine features editor,b155575b3a6cadb74d425d0876c96e0a,0
+1/1/2019 21:18,fraud_Connelly PLC,food_dining,104.63,F,CA,Wellsite geologist,4b8c80c37b370ab3bdee316aab8a2f06,0
+1/1/2019 21:18,fraud_Zulauf LLC,personal_care,7.22,F,IL,Race relations officer,c3f16c999ba34523d9dbd6d0724a7a70,0
+1/1/2019 21:19,fraud_Bogisich-Weimann,kids_pets,27.69,F,TX,Systems developer,afac27e581144931dd10b32707e5d9e9,0
+1/1/2019 21:19,fraud_Bechtelar-Rippin,food_dining,57.14,M,OR,Economist,9299553df6d3ba79274e9041585c1309,0
+1/1/2019 21:20,fraud_Collier LLC,home,170.1,F,NY,Film/video editor,3c8365d22bc8c61d9cbf439508912510,0
+1/1/2019 21:20,fraud_Monahan-Morar,personal_care,53.64,F,FL,Clothing/textile technologist,8e76690e5cfdb73be8dd488f0e234df2,0
+1/1/2019 21:20,fraud_Will Ltd,food_dining,41.01,F,LA,"Surveyor, rural practice",4b32829510c6bf3f3b37c8238e5f3467,0
+1/1/2019 21:21,"fraud_Kihn, Brakus and Goyette",personal_care,4.44,M,ME,"Engineer, electronics",f0ecc79da1b93a71666370512c787197,0
+1/1/2019 21:22,fraud_Waelchi-Wolf,kids_pets,18.2,M,IN,Social researcher,e65f24f7f911c094d6792cb2dc756b13,0
+1/1/2019 21:23,fraud_Crona and Sons,kids_pets,19.6,F,AL,Chemical engineer,c79e94f918604141348966e350f24e8d,0
+1/1/2019 21:23,fraud_Jerde-Hermann,travel,5.21,M,NY,Chartered accountant,e588641c0762aca27e37e7a2c1d51cb6,0
+1/1/2019 21:23,"fraud_Little, Gutmann and Lynch",shopping_net,405.28,F,TX,Building surveyor,71dc5c24e55171ee21f005f3a1cbc83c,0
+1/1/2019 21:23,fraud_Dickinson-Rempel,misc_pos,92.64,M,TX,Exhibition designer,b3c21c15df76d9a71ed87fe75fe8d525,0
+1/1/2019 21:24,fraud_Champlin-Casper,home,28.06,M,LA,"Psychologist, forensic",2382dfe6a8e4ad0fb2bd81529de50d21,0
+1/1/2019 21:25,"fraud_Okuneva, Schneider and Rau",shopping_pos,8.3,F,WA,Special educational needs teacher,250055e51b76e1c4152ebfff83c19ec0,0
+1/1/2019 21:25,"fraud_Willms, Kris and Bergnaum",shopping_pos,7.69,F,HI,"Scientist, research (maths)",72fcdae2442e7d30c06eb6e2abaf5a22,0
+1/1/2019 21:25,"fraud_Runte, Green and Emard",health_fitness,22.31,F,CA,Airline pilot,dfe910a98a86ab2dfcd602185ba71a29,0
+1/1/2019 21:26,fraud_Zboncak LLC,food_dining,67.11,M,WY,Research scientist (physical sciences),d754cae48d616aec2c2a6f4c48f7d07a,0
+1/1/2019 21:26,fraud_Romaguera Ltd,health_fitness,21.53,F,WV,Building services engineer,bdc9f2f6731175fbfe28e3b1f16fd96f,0
+1/1/2019 21:26,"fraud_Hahn, Bahringer and McLaughlin",personal_care,25.43,F,KS,Probation officer,ea2c7f8885078666968cdad07d280b03,0
+1/1/2019 21:27,"fraud_Lesch, D'Amore and Brown",food_dining,20.93,M,NM,"Therapist, art",3bda594044c4f0772e151a9cc6900add,0
+1/1/2019 21:27,"fraud_Crist, Jakubowski and Littel",home,61.2,F,NY,Ambulance person,f1995f7e214044bc1724f1e43f518e89,0
+1/1/2019 21:28,fraud_Marvin-Lind,personal_care,33.78,M,CA,Advertising account planner,1b6af0e4209b3bb44d9e82a4255b3f46,0
+1/1/2019 21:29,fraud_Hills-Witting,shopping_net,2.27,M,NJ,Health promotion specialist,6e1fc00d567324726a6f72e821324f0e,0
+1/1/2019 21:30,fraud_Schulist Ltd,food_dining,2.02,M,TX,Land,189e7be56514ac15d3b3b0a26a63b16d,0
+1/1/2019 21:30,fraud_Hammes-Beatty,kids_pets,35.95,M,ME,Audiological scientist,acfcb410f44a194c050943dfa36ee045,0
+1/1/2019 21:30,fraud_Medhurst Inc,home,17.4,M,PA,General practice doctor,7bbc55ca7c16b18fb42483e3b18d6c6a,0
+1/1/2019 21:31,fraud_Cormier LLC,shopping_net,447.78,F,CA,Health physicist,7f5e9f9e4ade34c0abaad55cc5eb4ee5,0
+1/1/2019 21:31,"fraud_Hills, Hegmann and Schaefer",health_fitness,39.57,F,TX,IT trainer,f7f7378578445eb418f5c22be5c7a75b,0
+1/1/2019 21:31,fraud_Block Group,misc_pos,2.7,F,KY,"Therapist, sports",7ff728506dd6179622ce22201d719edc,0
+1/1/2019 21:32,fraud_Reichel Inc,entertainment,4.74,F,IL,Landscape architect,4a02d1f64712670fc85882de4b3cf241,0
+1/1/2019 21:33,"fraud_Schumm, McLaughlin and Carter",food_dining,28.54,M,NC,Paramedic,f112742149a7efacbeb075a6a028b1c7,0
+1/1/2019 21:33,"fraud_Cormier, Stracke and Thiel",entertainment,45.1,F,MO,Cytogeneticist,a3e2fb7d49347f50d15adce1ef19ef72,0
+1/1/2019 21:34,"fraud_Gottlieb, Considine and Schultz",shopping_net,704.59,M,TX,Futures trader,3365c5a9e2cfbe1f442be14d11b9002c,0
+1/1/2019 21:34,fraud_Beier and Sons,home,24.46,M,IA,Estate manager/land agent,11ddd9c81b2333652d380cb64ebd18d3,0
+1/1/2019 21:34,fraud_Connelly-Carter,home,15.04,M,NY,"Therapist, drama",6126c2404907ac94d249737261961ab0,0
+1/1/2019 21:34,fraud_Erdman-Durgan,health_fitness,113.84,M,WA,Clothing/textile technologist,389422c7d2f777a760342c289f47db82,0
+1/1/2019 21:35,"fraud_Okuneva, Schneider and Rau",shopping_pos,120.31,F,VA,Energy engineer,a021259cf708f5ced7ba83ef823de592,0
+1/1/2019 21:35,fraud_Kling-Ernser,entertainment,64.64,M,GA,Rural practice surveyor,75a22c9a08982c13ddafb6d86a4a7ede,0
+1/1/2019 21:35,"fraud_Altenwerth, Cartwright and Koss",shopping_net,6.08,F,AR,Pharmacologist,cdb45752ab2cee7789c02da9b3475ba4,0
+1/1/2019 21:35,fraud_Botsford Ltd,shopping_pos,543.99,F,WI,Logistics and distribution manager,ebf83d005f45eddcd8aa25efaa97deee,0
+1/1/2019 21:36,fraud_Gaylord-Powlowski,home,36.17,F,KY,Advertising account executive,a4eea8fbb4ec113e2da5685807faee69,0
+1/1/2019 21:36,fraud_Schulist Ltd,food_dining,15.85,M,IN,Retail banker,e10b85974121e5408ffc1836ab997eb7,0
+1/1/2019 21:38,fraud_Kuhn Group,food_dining,33.89,F,CA,"Therapist, occupational",8f73e56f3b7115851fc6139cb9f979a5,0
+1/1/2019 21:39,"fraud_Labadie, Treutel and Bode",shopping_net,6.48,F,CA,Health physicist,40581283af662ad2a452045e8f5739ae,0
+1/1/2019 21:40,fraud_Collier LLC,home,70.31,M,VA,Psychiatrist,da33ddc13571b80672a45453329a1263,0
+1/1/2019 21:40,fraud_Stiedemann Ltd,food_dining,53.11,M,OH,Exhibition designer,7b501fee4d11bf0961756e8b289c44e6,0
+1/1/2019 21:40,fraud_Morissette PLC,shopping_pos,9.08,M,VA,"Scientist, biomedical",316ee5ff215ce70be05eacf7e569e9f2,0
+1/1/2019 21:41,"fraud_Romaguera, Cruickshank and Greenholt",shopping_net,2.71,M,NY,"Therapist, drama",e4597f55aabcec3166c927ea7cb70ad5,0
+1/1/2019 21:41,"fraud_Witting, Beer and Ernser",home,28.77,M,CO,"Engineer, electronics",6ad315925e4dd95e9a85ab5dc7ab0ca7,0
+1/1/2019 21:41,fraud_Thiel Ltd,travel,7.26,M,MI,Historic buildings inspector/conservation officer,8576c2c1457378f030e1db83ccc3f4cc,0
+1/1/2019 21:41,fraud_Hills-Boyer,personal_care,9.88,F,SC,Social researcher,419a695affa4f2ddd0953341c76f981b,0
+1/1/2019 21:41,"fraud_Rodriguez, Yost and Jenkins",misc_net,32.51,F,IA,Engineering geologist,e2769d2f14d12d28a441b21256bf6cfc,0
+1/1/2019 21:42,fraud_Greenholt Ltd,health_fitness,75.33,M,MO,"Engineer, agricultural",52f9c1d177241c00661e9d83d1faee21,0
+1/1/2019 21:42,fraud_Schoen Ltd,kids_pets,96.82,F,FL,Higher education careers adviser,bd600220fc3aa10bdda180442dacad43,0
+1/1/2019 21:42,fraud_Goyette-Gerhold,kids_pets,48.67,M,TX,Clothing/textile technologist,6090fcbc7c96282f01db73194c39b1dc,0
+1/1/2019 21:42,fraud_Schaefer Ltd,kids_pets,12.19,F,MO,Production manager,e2b08de278a65b926127d5d70f1a4cba,0
+1/1/2019 21:43,"fraud_Witting, Beer and Ernser",home,92.62,M,NY,Further education lecturer,37aca0bce8df026cb2369a58ea29417d,0
+1/1/2019 21:43,"fraud_Okuneva, Schneider and Rau",shopping_pos,3.59,M,MI,"Social research officer, government",e95f785187c794a3c5a54a45c8c15651,0
+1/1/2019 21:43,fraud_Morissette LLC,entertainment,39.73,F,KS,Film/video editor,78871885d1151dcb3ea703646a4daf28,0
+1/1/2019 21:43,fraud_Lubowitz-Walter,kids_pets,54.98,M,WY,Freight forwarder,cb130a5560a8593c43612c21ef9808c2,0
+1/1/2019 21:44,fraud_Lubowitz-Walter,kids_pets,77.01,M,MI,Police officer,161cc82cd72800ccbca31dcf428b4940,0
+1/1/2019 21:44,fraud_Renner Ltd,home,172.91,M,IL,Claims inspector/assessor,5d6c6dc66afc54a8ea61b9ee7773273c,0
+1/1/2019 21:44,fraud_Kilback and Sons,entertainment,18.55,F,MS,"Education officer, community",6a073292e48d935152ca1ae4b4ad3ece,0
+1/1/2019 21:46,fraud_Labadie LLC,personal_care,8.63,F,OH,"Copywriter, advertising",4b112f5b119fc33e95574719140eb44c,0
+1/1/2019 21:46,fraud_Beier and Sons,home,90.45,M,TX,Petroleum engineer,9e42421c88eb8a6501b56c77b1d7a634,0
+1/1/2019 21:46,fraud_Gaylord-Powlowski,home,45.44,M,KY,"Research officer, political party",f6bd6a2905f3f7d593d46e60711d8f7d,0
+1/1/2019 21:46,fraud_Yost-Rogahn,personal_care,3.58,F,PA,Structural engineer,bc13ac89dc384de48cc6f201ce55669c,0
+1/1/2019 21:47,"fraud_Schiller, Blanda and Johnson",home,21.6,M,NJ,Health promotion specialist,5348e7d0bda43558b0ef1538cdd5224f,0
+1/1/2019 21:48,"fraud_Mante, Luettgen and Hackett",health_fitness,35.7,F,VA,Energy engineer,82f0b1e2cc0f59f27c56b2ed41ac797c,0
+1/1/2019 21:48,fraud_Jacobi and Sons,shopping_pos,206.68,M,IL,Commercial/residential surveyor,a052572f7a9679bdd4e4712823c5f9b1,0
+1/1/2019 21:48,fraud_Bednar PLC,kids_pets,55.92,M,TX,Petroleum engineer,75ecf26a4ec07362abff0589b26b6847,0
+2/1/2019 1:06,fraud_Rutherford-Mertz,grocery_pos,281.06,M,NC,Soil scientist,e8a81877ae9a0a7f883e15cb39dc4022,1
+2/1/2019 1:47,"fraud_Jenkins, Hauck and Friesen",gas_transport,11.52,F,TX,Horticultural consultant,bc7d41c41103877b03232f03f1f8d3f5,1
+2/1/2019 3:05,fraud_Goodwin-Nitzsche,grocery_pos,276.31,F,TX,Horticultural consultant,b98f12f4168391b2203238813df5aa8c,1
+2/1/2019 3:38,fraud_Erdman-Kertzmann,gas_transport,7.03,M,NC,Soil scientist,397894a5c4c02e3c61c784001f0f14e4,1
+2/1/2019 3:55,fraud_Koepp-Parker,grocery_pos,275.73,F,TX,Horticultural consultant,7863235a750d73a244c07f1fb7f0185a,1
+2/1/2019 13:38,fraud_Medhurst PLC,shopping_net,844.8,M,NC,Soil scientist,248c2746e78f2ec713df51254ff1b302,1
+2/1/2019 23:52,fraud_Ruecker Group,misc_net,843.91,M,NC,Soil scientist,2f7d497f607396ab669c14c2abe3886f,1
+3/1/2019 1:05,fraud_Conroy-Cruickshank,gas_transport,10.76,F,TX,Horticultural consultant,0a2f8002e55a3565c5c88d8cf039fed8,1
+3/1/2019 1:35,fraud_Koepp-Parker,grocery_pos,332.35,F,TX,Horticultural consultant,97903213a2fd7e53bbaa60807144a505,1
+3/1/2019 3:17,fraud_Strosin-Cruickshank,grocery_pos,315.34,F,TX,Horticultural consultant,0ffc2b7dae4c33883f14ac60283d4027,1
+3/1/2019 16:54,fraud_Rau and Sons,grocery_pos,337.05,F,PA,Public affairs consultant,7301679c460c5f2a464b0ecb5c610b47,1
+3/1/2019 18:07,fraud_Pouros-Conroy,shopping_pos,711.66,F,PA,Public affairs consultant,d8daaffedc75c3e9228351ffac06aca9,1
+3/1/2019 22:09,"fraud_Johnson, Runolfsdottir and Mayer",misc_net,707.5,F,PA,Public affairs consultant,e366fd492cb7dfca302daba1f62ba9f4,1
+3/1/2019 22:21,fraud_Fisher Inc,shopping_net,942.62,M,NC,Soil scientist,41b9e040c87e3ec6928ea9f86c571774,1
+3/1/2019 22:58,fraud_Mosciski Group,travel,4.5,F,PA,Public affairs consultant,2751eef2242b86fba1c3e6c1bb6a7022,1
+3/1/2019 23:09,fraud_Morissette PLC,shopping_pos,821.96,M,NC,Soil scientist,b7941dbeaf57c1dd33db619996852b0a,1
+3/1/2019 23:29,fraud_Lemke-Gutmann,shopping_net,1092.68,M,NC,Soil scientist,d7a512888741e0585a7277b2d1bc8348,1
+3/1/2019 23:41,fraud_Mohr-Bayer,shopping_net,1254.27,M,NC,Soil scientist,e8cd6d3df90834fe23e6ebb4e52a7349,1
+3/1/2019 23:44,"fraud_Moen, Reinger and Murphy",grocery_pos,274.09,F,TX,Horticultural consultant,fdae36d3824101b501a9500505c0dd4c,1
+4/1/2019 0:58,"fraud_Stokes, Christiansen and Sipes",grocery_net,14.37,M,AK,"Administrator, education",a3806e984cec6ac0096d8184c64ad3a1,1
+4/1/2019 2:13,fraud_Rau and Sons,grocery_pos,316.93,F,PA,Public affairs consultant,9a6497aef537514b394fad2b89ef0516,1
+4/1/2019 2:57,fraud_Padberg-Welch,grocery_pos,327.68,F,PA,Public affairs consultant,4ae53182552dba862e94bf0b13dda3e6,1
+21/4/2019 4:49,fraud_Heidenreich PLC,grocery_pos,96.2,M,WI,IT trainer,cff0c4f3b2bb549c412690b27debe609,0
+21/4/2019 4:50,fraud_Heidenreich PLC,grocery_pos,88.52,F,AL,Materials engineer,54e88f103fba2d886284f6c584394896,0
+21/4/2019 4:50,fraud_Wolf Inc,grocery_pos,90.36,M,VA,Waste management officer,d89dc8d2494b5a60297d3713b158786d,0
+21/4/2019 4:51,fraud_Sawayn PLC,shopping_pos,61.04,M,SC,Chief Strategy Officer,d0db2692553310182e8346ce4db54bcc,0
+21/4/2019 4:52,"fraud_Streich, Dietrich and Barton",shopping_net,9.17,F,MO,Architect,5b7744f0d8670df0ff8edaecb11d57be,0
+21/4/2019 4:52,"fraud_Goldner, Kovacek and Abbott",grocery_pos,187.92,F,CA,"Designer, exhibition/display",ae421ff4a7b0f0e853ded63910bb9371,0
+21/4/2019 4:54,fraud_Cole PLC,grocery_pos,61.39,M,IA,IT trainer,39f6eab23cd1fda0f2f4984a2dd1fbbb,0
+21/4/2019 4:55,fraud_Miller-Hauck,grocery_pos,115.32,F,MO,Tax inspector,428490f5eb76949c5ebb2f74a52887b0,0
+21/4/2019 4:55,"fraud_Casper, Hand and Zulauf",grocery_pos,135.69,F,MS,Medical physicist,d8161d0bcf3743101c6f435cb6f0ff70,0
+21/4/2019 4:55,fraud_Ankunding LLC,shopping_net,39.22,F,MS,Trading standards officer,075c5097a5480467fa67162db9e6456d,0
+21/4/2019 4:56,fraud_Block-Parisian,misc_net,2.86,F,OH,Private music teacher,15b691be22630da0f31c1749b0aadd98,0
+21/4/2019 4:56,fraud_Fisher Inc,shopping_net,7.19,M,VA,"Designer, multimedia",7f1c3d0f1a33f3cac782114a4f58756e,0
+21/4/2019 4:57,"fraud_Lehner, Mosciski and King",misc_net,27.36,F,MI,"Psychologist, sport and exercise",387611d22042a93c0df53896f8963348,0
+21/4/2019 5:00,fraud_Dickinson-Rempel,misc_pos,6.79,M,NY,Television/film/video producer,a688f00378edcf9e416e14bd4575ff02,0
+21/4/2019 5:00,"fraud_Wiza, Schaden and Stark",misc_pos,3.7,M,WV,Chartered public finance accountant,ed63dd861cd83490b7c244eb2912c6c8,0
+21/4/2019 5:01,fraud_Kerluke-Abshire,shopping_net,7,M,MI,"Producer, radio",d861402b018fbe54b3f0e6f85b47db90,0
+21/4/2019 5:01,"fraud_Johnson, Runolfsdottir and Mayer",misc_net,164.11,M,NM,Historic buildings inspector/conservation officer,431bc66d569c4e0f1c14937fc8c9096c,0
+21/4/2019 5:01,fraud_Terry-Huel,shopping_net,108.51,M,ND,Administrator,ab4e9cbf09fe418f609cccb119b13e5c,0
+21/4/2019 5:02,fraud_Brekke and Sons,gas_transport,37.31,F,VA,Energy engineer,becc131dccd1d520941d3809baabf238,0
+21/4/2019 5:03,fraud_Goldner-Lemke,entertainment,11.76,F,SC,Chemical engineer,227127618b39bd4c1adcf13664abaa17,0
+21/4/2019 5:04,fraud_Pagac LLC,shopping_pos,6.99,M,WV,Accounting technician,46596425aa0220a97fb280401090c975,0
+21/4/2019 5:05,fraud_Turcotte-Halvorson,misc_pos,42.34,M,NY,Cytogeneticist,006fb1f36e4f43f8c704c11532cb8bc9,0
+21/4/2019 5:08,fraud_Kuhn LLC,misc_net,1.65,F,TX,Cytogeneticist,59bc94f567bf8cbce7241a4cb8ddaaea,0
+21/4/2019 5:10,fraud_Torp-Labadie,gas_transport,43.27,F,WY,Materials engineer,3abe994e7500e3fab731d44ee6f97bc3,0
+21/4/2019 5:10,fraud_Murray Ltd,grocery_net,90.82,F,IN,Firefighter,f06a15abc404030853f6fb421bb58d8a,0
+21/4/2019 5:10,fraud_Kuvalis Ltd,gas_transport,65.42,M,MA,Geoscientist,2a80848f9c796910fb65914338f1ecf2,0
+21/4/2019 5:10,fraud_Kutch and Sons,grocery_pos,199.69,F,FL,Paramedic,a8b5b8dcafb064485caab0f69b1fe8a2,0
+21/4/2019 5:11,"fraud_Reilly, Heaney and Cole",gas_transport,36.92,F,OK,Barrister,c11bc1a001f35b6bcfda3678fc5fb1b2,0
+21/4/2019 5:11,fraud_Harris Inc,gas_transport,53.53,M,TX,Futures trader,c59b5181b01e8b9d33d025308e271cf0,0
